@@ -1,0 +1,354 @@
+(lp0
+(lp1
+S'JPN101'
+p2
+aI73214
+aI0
+aI28
+aS'M W F'
+p3
+aS'10:30 AM'
+p4
+aI10
+aI30
+aI12
+aI0
+aNaNaNaNaNaNaNaS'Reserved'
+p5
+aa(lp6
+S'JPN101'
+p7
+aI73215
+aI8
+aI28
+aS'M T W Th F'
+p8
+aS'12:00 PM'
+p9
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNaS'Not Reserved'
+p10
+aa(lp11
+S'JPN101'
+p12
+aI71484
+aI8
+aI28
+aS'M T W Th F'
+p13
+aS' 1:30 PM'
+p14
+aI13
+aI30
+aI14
+aI20
+aNaNaNaNaNaNaNag10
+aa(lp15
+S'JPN102'
+p16
+aI75749
+aI13
+aI28
+aS'M W F'
+p17
+aS'10:30 AM'
+p18
+aI10
+aI30
+aI12
+aI0
+aNaNaNaNaNaNaNag10
+aa(lp19
+S'JPN102'
+p20
+aI90771
+aI18
+aI28
+aS'M W F'
+p21
+aS' 4:30 PM'
+p22
+aI16
+aI30
+aI18
+aI0
+aNaNaNaNaNaNaNag10
+aa(lp23
+S'JPN110'
+p24
+aI91804
+aI24
+aI28
+aS'M T W Th F'
+p25
+aS'10:30 AM'
+p26
+aI10
+aI30
+aI11
+aI50
+aNaNaNaNaNaNaNag10
+aa(lp27
+S'JPN115'
+p28
+aI79978
+aI13
+aI30
+aS'M W'
+p29
+aS' 1:30 PM'
+p30
+aI13
+aI30
+aI14
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp31
+S'JPN115'
+p32
+aI79979
+aI16
+aI30
+aS'M W'
+p33
+aS' 3:00 PM'
+p34
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp35
+S'JPN201'
+p36
+aI71485
+aI23
+aI28
+aS'M T W Th F'
+p37
+aS' 9:00 AM'
+p38
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag10
+aa(lp39
+S'JPN201'
+p40
+aI71486
+aI19
+aI28
+aS'M W F'
+p41
+aS'10:30 AM'
+p42
+aI10
+aI30
+aI12
+aI0
+aNaNaNaNaNaNaNag10
+aa(lp43
+S'JPN202'
+p44
+aI90773
+aI4
+aI28
+aS'M W F'
+p45
+aS' 1:30 PM'
+p46
+aI13
+aI30
+aI15
+aI0
+aNaNaNaNaNaNaNag10
+aa(lp47
+S'JPN206'
+p48
+aI82128
+aI13
+aI25
+aS'F'
+p49
+aS' 1:30 PM'
+p50
+aI13
+aI30
+aI14
+aI20
+aNaNaNaNaNaNaNag10
+aa(lp51
+S'JPN301'
+p52
+aI71489
+aI4
+aI25
+aS'T Th'
+p53
+aS'12:00 PM'
+p54
+aI12
+aI0
+aI13
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp55
+S'JPN302'
+p56
+aI75750
+aI13
+aI25
+aS'T Th'
+p57
+aS'12:00 PM'
+p58
+aI12
+aI0
+aI13
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp59
+S'JPN311'
+p60
+aI71488
+aI2
+aI25
+aS'T Th'
+p61
+aS' 9:00 AM'
+p62
+aI9
+aI0
+aI10
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp63
+S'JPN315'
+p64
+aI91626
+aI18
+aI25
+aS'T Th'
+p65
+aS' 3:00 PM'
+p66
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp67
+S'JPN394'
+p68
+aI90026
+aI18
+aI28
+aS'T Th'
+p69
+aS' 3:00 PM'
+p70
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp71
+S'JPN401'
+p72
+aI71490
+aI13
+aI25
+aS'M W'
+p73
+aS' 1:30 PM'
+p74
+aI13
+aI30
+aI14
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp75
+S'JPN414'
+p76
+aI90777
+aI18
+aI23
+aS'T Th'
+p77
+aS' 9:00 AM'
+p78
+aI9
+aI0
+aI10
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp79
+S'JPN484'
+p80
+aI71491
+aI3
+aI3
+aS'ONLINE'
+p81
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp82
+S'JPN492'
+p83
+aI71492
+aI1
+aI1
+ag81
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp84
+S'JPN493'
+p85
+aI71493
+aI2
+aI2
+ag81
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp86
+S'JPN499'
+p87
+aI71494
+aI1
+aI1
+ag81
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp88
+S'JPN590'
+p89
+aI71495
+aI5
+aI5
+ag81
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp90
+S'JPN592'
+p91
+aI71496
+aI5
+aI5
+ag81
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp92
+S'JPN595'
+p93
+aI73528
+aI10
+aI10
+ag81
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp94
+S'JPN599'
+p95
+aI73529
+aI5
+aI5
+ag81
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa.

@@ -1,0 +1,110 @@
+(lp0
+(lp1
+S'EET406'
+p2
+aI73631
+aI16
+aI18
+aS'T Th'
+p3
+aS'10:30 AM'
+p4
+aI10
+aI30
+aI11
+aI20
+aNaNaNaNaNaNaNaS'Not Reserved'
+p5
+aa(lp6
+S'EET406'
+p7
+aI73918
+aI16
+aI18
+aS'Th'
+p8
+aS' 7:30 AM'
+p9
+aI7
+aI30
+aI10
+aI0
+aNaNaNaNaNaNaNag5
+aa(lp10
+S'EET430'
+p11
+aI73632
+aI6
+aI10
+aS'T Th'
+p12
+aS' 3:00 PM'
+p13
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp14
+S'EET430'
+p15
+aI74118
+aI6
+aI10
+aS'ONLINE'
+p16
+aNaNaNaNaNaNaNaNaNaNaNaNag5
+aa(lp17
+S'EET506'
+p18
+aI86292
+aI14
+aI18
+aS'T Th'
+p19
+aS'10:30 AM'
+p20
+aI10
+aI30
+aI11
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp21
+S'EET506'
+p22
+aI86293
+aI14
+aI18
+aS'Th'
+p23
+aS' 7:30 AM'
+p24
+aI7
+aI30
+aI10
+aI0
+aNaNaNaNaNaNaNag5
+aa(lp25
+S'EET530'
+p26
+aI86294
+aI6
+aI10
+aS'T Th'
+p27
+aS' 3:00 PM'
+p28
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp29
+S'EET530'
+p30
+aI86295
+aI11
+aI15
+ag16
+aNaNaNaNaNaNaNaNaNaNaNaNag5
+aa.

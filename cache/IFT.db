@@ -1,0 +1,263 @@
+(lp0
+(lp1
+S'IFT100'
+p2
+aI79965
+aI26
+aI40
+aS'T Th'
+p3
+aS' 3:00 PM'
+p4
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNaS'Reserved'
+p5
+aa(lp6
+S'IFT200'
+p7
+aI79974
+aI12
+aI50
+aS'T Th'
+p8
+aS' 9:00 AM'
+p9
+aI9
+aI0
+aI10
+aI15
+aNaNaNaNaNaNaNaS'Not Reserved'
+p10
+aa(lp11
+S'IFT201'
+p12
+aI79975
+aI18
+aI50
+aS'T Th'
+p13
+aS'12:00 PM'
+p14
+aI12
+aI0
+aI13
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp15
+S'IFT301'
+p16
+aI86383
+aI16
+aI39
+aS'T Th'
+p17
+aS'10:30 AM'
+p18
+aI10
+aI30
+aI11
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp19
+S'IFT359'
+p20
+aI72932
+aI48
+aI70
+aS'M W'
+p21
+aS' 4:30 PM'
+p22
+aI16
+aI30
+aI17
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp23
+S'IFT401'
+p24
+aI86385
+aI13
+aI30
+aS'M W'
+p25
+aS' 3:00 PM'
+p26
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp27
+S'IFT402'
+p28
+aI86893
+aI28
+aI30
+aS'M W'
+p29
+aS' 4:30 PM'
+p30
+aI16
+aI30
+aI17
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp31
+S'IFT481'
+p32
+aI72739
+aI13
+aI30
+aS'T Th'
+p33
+aS' 1:30 PM'
+p34
+aI13
+aI30
+aI14
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp35
+S'IFT484'
+p36
+aI86386
+aI10
+aI10
+aS'ONLINE'
+p37
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp38
+S'IFT494'
+p39
+aI90012
+aI10
+aI12
+aS'T Th'
+p40
+aS' 9:00 AM'
+p41
+aI9
+aI0
+aI10
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp42
+S'IFT499'
+p43
+aI86387
+aI10
+aI10
+ag37
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp44
+S'IFT510'
+p45
+aI84570
+aI22
+aI22
+aS'M W'
+p46
+aS' 3:00 PM'
+p47
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag10
+aa(lp48
+S'IFT520'
+p49
+aI83600
+aI22
+aI22
+aS'M W'
+p50
+aS'10:30 AM'
+p51
+aI10
+aI30
+aI11
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp52
+S'IFT540'
+p53
+aI84571
+aI22
+aI22
+aS'M W'
+p54
+aS' 1:30 PM'
+p55
+aI13
+aI30
+aI14
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp56
+S'IFT584'
+p57
+aI86388
+aI10
+aI10
+ag37
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp58
+S'IFT590'
+p59
+aI86389
+aI10
+aI10
+ag37
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp60
+S'IFT593'
+p61
+aI85551
+aI5
+aI5
+ag37
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp62
+S'IFT595'
+p63
+aI86390
+aI10
+aI10
+ag37
+aNaNaNaNaNaNaNaNaNaNaNaNag10
+aa(lp64
+S'IFT598'
+p65
+aI84586
+aI10
+aI10
+aS'T Th'
+p66
+aS' 1:30 PM'
+p67
+aI13
+aI30
+aI14
+aI45
+aNaNaNaNaNaNaNag10
+aa(lp68
+S'IFT598'
+p69
+aI90013
+aI9
+aI10
+aS'T Th'
+p70
+aS' 9:00 AM'
+p71
+aI9
+aI0
+aI10
+aI15
+aNaNaNaNaNaNaNag10
+aa.

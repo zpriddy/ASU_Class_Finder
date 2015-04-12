@@ -1,0 +1,1833 @@
+Sun Apr 12 02:19:38 MST 2015
+Loading Subject:  AAD
+https://webapp4.asu.edu/catalog/classlist?s=AAD&t=2157&e=all&hon=F
+TOTAL AAD CLASSES:  0
+Loading Subject:  ABS
+https://webapp4.asu.edu/catalog/classlist?s=ABS&t=2157&e=all&hon=F
+TOTAL ABS CLASSES:  50
+Loading Subject:  ACC
+https://webapp4.asu.edu/catalog/classlist?s=ACC&t=2157&e=all&hon=F
+TOTAL ACC CLASSES:  116
+Loading Subject:  ACO
+https://webapp4.asu.edu/catalog/classlist?s=ACO&t=2157&e=all&hon=F
+TOTAL ACO CLASSES:  13
+Loading Subject:  ACT
+https://webapp4.asu.edu/catalog/classlist?s=ACT&t=2157&e=all&hon=F
+TOTAL ACT CLASSES:  7
+Loading Subject:  ADE
+https://webapp4.asu.edu/catalog/classlist?s=ADE&t=2157&e=all&hon=F
+TOTAL ADE CLASSES:  15
+Loading Subject:  AEC
+https://webapp4.asu.edu/catalog/classlist?s=AEC&t=2157&e=all&hon=F
+TOTAL AEC CLASSES:  900
+Loading Subject:  AEE
+https://webapp4.asu.edu/catalog/classlist?s=AEE&t=2157&e=all&hon=F
+TOTAL AEE CLASSES:  27
+Loading Subject:  AEP
+https://webapp4.asu.edu/catalog/classlist?s=AEP&t=2157&e=all&hon=F
+TOTAL AEP CLASSES:  4
+Loading Subject:  AES
+https://webapp4.asu.edu/catalog/classlist?s=AES&t=2157&e=all&hon=F
+TOTAL AES CLASSES:  11
+Loading Subject:  AET
+https://webapp4.asu.edu/catalog/classlist?s=AET&t=2157&e=all&hon=F
+TOTAL AET CLASSES:  5
+Loading Subject:  AFR
+https://webapp4.asu.edu/catalog/classlist?s=AFR&t=2157&e=all&hon=F
+TOTAL AFR CLASSES:  28
+Loading Subject:  AGB
+https://webapp4.asu.edu/catalog/classlist?s=AGB&t=2157&e=all&hon=F
+TOTAL AGB CLASSES:  22
+Loading Subject:  AIS
+https://webapp4.asu.edu/catalog/classlist?s=AIS&t=2157&e=all&hon=F
+TOTAL AIS CLASSES:  23
+Loading Subject:  ALA
+https://webapp4.asu.edu/catalog/classlist?s=ALA&t=2157&e=all&hon=F
+TOTAL ALA CLASSES:  30
+Loading Subject:  ALD
+https://webapp4.asu.edu/catalog/classlist?s=ALD&t=2157&e=all&hon=F
+TOTAL ALD CLASSES:  0
+Loading Subject:  ALT
+https://webapp4.asu.edu/catalog/classlist?s=ALT&t=2157&e=all&hon=F
+TOTAL ALT CLASSES:  6
+Loading Subject:  AME
+https://webapp4.asu.edu/catalog/classlist?s=AME&t=2157&e=all&hon=F
+TOTAL AME CLASSES:  42
+ERROR AME
+Loading Subject:  AML
+https://webapp4.asu.edu/catalog/classlist?s=AML&t=2157&e=all&hon=F
+TOTAL AML CLASSES:  10
+Loading Subject:  AMS
+https://webapp4.asu.edu/catalog/classlist?s=AMS&t=2157&e=all&hon=F
+TOTAL AMS CLASSES:  4
+Loading Subject:  AMT
+https://webapp4.asu.edu/catalog/classlist?s=AMT&t=2157&e=all&hon=F
+TOTAL AMT CLASSES:  59
+Loading Subject:  ANB
+https://webapp4.asu.edu/catalog/classlist?s=ANB&t=2157&e=all&hon=F
+TOTAL ANB CLASSES:  6
+Loading Subject:  ANP
+https://webapp4.asu.edu/catalog/classlist?s=ANP&t=2157&e=all&hon=F
+TOTAL ANP CLASSES:  0
+Loading Subject:  APA
+https://webapp4.asu.edu/catalog/classlist?s=APA&t=2157&e=all&hon=F
+TOTAL APA CLASSES:  20
+Loading Subject:  APH
+https://webapp4.asu.edu/catalog/classlist?s=APH&t=2157&e=all&hon=F
+TOTAL APH CLASSES:  7
+Loading Subject:  APL
+https://webapp4.asu.edu/catalog/classlist?s=APL&t=2157&e=all&hon=F
+TOTAL APL CLASSES:  9
+Loading Subject:  APM
+https://webapp4.asu.edu/catalog/classlist?s=APM&t=2157&e=all&hon=F
+TOTAL APM CLASSES:  11
+Loading Subject:  ARA
+https://webapp4.asu.edu/catalog/classlist?s=ARA&t=2157&e=all&hon=F
+TOTAL ARA CLASSES:  23
+Loading Subject:  ARB
+https://webapp4.asu.edu/catalog/classlist?s=ARB&t=2157&e=all&hon=F
+TOTAL ARB CLASSES:  19
+Loading Subject:  ARE
+https://webapp4.asu.edu/catalog/classlist?s=ARE&t=2157&e=all&hon=F
+TOTAL ARE CLASSES:  24
+Loading Subject:  ARP
+https://webapp4.asu.edu/catalog/classlist?s=ARP&t=2157&e=all&hon=F
+TOTAL ARP CLASSES:  0
+Loading Subject:  ARS
+https://webapp4.asu.edu/catalog/classlist?s=ARS&t=2157&e=all&hon=F
+TOTAL ARS CLASSES:  62
+Loading Subject:  ART
+https://webapp4.asu.edu/catalog/classlist?s=ART&t=2157&e=all&hon=F
+TOTAL ART CLASSES:  193
+Loading Subject:  ASB
+https://webapp4.asu.edu/catalog/classlist?s=ASB&t=2157&e=all&hon=F
+TOTAL ASB CLASSES:  58
+Loading Subject:  ASC
+https://webapp4.asu.edu/catalog/classlist?s=ASC&t=2157&e=all&hon=F
+TOTAL ASC CLASSES:  0
+Loading Subject:  ASM
+https://webapp4.asu.edu/catalog/classlist?s=ASM&t=2157&e=all&hon=F
+TOTAL ASM CLASSES:  27
+Loading Subject:  AST
+https://webapp4.asu.edu/catalog/classlist?s=AST&t=2157&e=all&hon=F
+TOTAL AST CLASSES:  39
+Loading Subject:  ASU
+https://webapp4.asu.edu/catalog/classlist?s=ASU&t=2157&e=all&hon=F
+TOTAL ASU CLASSES:  470
+ERROR ASU
+Loading Subject:  ATC
+https://webapp4.asu.edu/catalog/classlist?s=ATC&t=2157&e=all&hon=F
+TOTAL ATC CLASSES:  15
+Loading Subject:  ATE
+https://webapp4.asu.edu/catalog/classlist?s=ATE&t=2157&e=all&hon=F
+TOTAL ATE CLASSES:  9
+Loading Subject:  AVC
+https://webapp4.asu.edu/catalog/classlist?s=AVC&t=2157&e=all&hon=F
+TOTAL AVC CLASSES:  0
+Loading Subject:  BCH
+https://webapp4.asu.edu/catalog/classlist?s=BCH&t=2157&e=all&hon=F
+TOTAL BCH CLASSES:  62
+Loading Subject:  BCS
+https://webapp4.asu.edu/catalog/classlist?s=BCS&t=2157&e=all&hon=F
+TOTAL BCS CLASSES:  4
+Loading Subject:  BDE
+https://webapp4.asu.edu/catalog/classlist?s=BDE&t=2157&e=all&hon=F
+TOTAL BDE CLASSES:  4
+Loading Subject:  BIO
+https://webapp4.asu.edu/catalog/classlist?s=BIO&t=2157&e=all&hon=F
+TOTAL BIO CLASSES:  490
+Loading Subject:  BIS
+https://webapp4.asu.edu/catalog/classlist?s=BIS&t=2157&e=all&hon=F
+TOTAL BIS CLASSES:  57
+Loading Subject:  BLE
+https://webapp4.asu.edu/catalog/classlist?s=BLE&t=2157&e=all&hon=F
+TOTAL BLE CLASSES:  15
+Loading Subject:  BMD
+https://webapp4.asu.edu/catalog/classlist?s=BMD&t=2157&e=all&hon=F
+TOTAL BMD CLASSES:  3
+Loading Subject:  BME
+https://webapp4.asu.edu/catalog/classlist?s=BME&t=2157&e=all&hon=F
+TOTAL BME CLASSES:  67
+Loading Subject:  BMI
+https://webapp4.asu.edu/catalog/classlist?s=BMI&t=2157&e=all&hon=F
+TOTAL BMI CLASSES:  41
+Loading Subject:  BMY
+https://webapp4.asu.edu/catalog/classlist?s=BMY&t=2157&e=all&hon=F
+TOTAL BMY CLASSES:  0
+Loading Subject:  BUA
+https://webapp4.asu.edu/catalog/classlist?s=BUA&t=2157&e=all&hon=F
+TOTAL BUA CLASSES:  4
+Loading Subject:  BUE
+https://webapp4.asu.edu/catalog/classlist?s=BUE&t=2157&e=all&hon=F
+TOTAL BUE CLASSES:  0
+Loading Subject:  BUS
+https://webapp4.asu.edu/catalog/classlist?s=BUS&t=2157&e=all&hon=F
+TOTAL BUS CLASSES:  0
+Loading Subject:  CBS
+https://webapp4.asu.edu/catalog/classlist?s=CBS&t=2157&e=all&hon=F
+TOTAL CBS CLASSES:  0
+Loading Subject:  CCS
+https://webapp4.asu.edu/catalog/classlist?s=CCS&t=2157&e=all&hon=F
+TOTAL CCS CLASSES:  0
+Loading Subject:  CDE
+https://webapp4.asu.edu/catalog/classlist?s=CDE&t=2157&e=all&hon=F
+TOTAL CDE CLASSES:  41
+Loading Subject:  CED
+https://webapp4.asu.edu/catalog/classlist?s=CED&t=2157&e=all&hon=F
+TOTAL CED CLASSES:  28
+Loading Subject:  CEE
+https://webapp4.asu.edu/catalog/classlist?s=CEE&t=2157&e=all&hon=F
+TOTAL CEE CLASSES:  114
+Loading Subject:  CEN
+https://webapp4.asu.edu/catalog/classlist?s=CEN&t=2157&e=all&hon=F
+TOTAL CEN CLASSES:  13
+Loading Subject:  CHE
+https://webapp4.asu.edu/catalog/classlist?s=CHE&t=2157&e=all&hon=F
+TOTAL CHE CLASSES:  38
+Loading Subject:  CHI
+https://webapp4.asu.edu/catalog/classlist?s=CHI&t=2157&e=all&hon=F
+TOTAL CHI CLASSES:  59
+Loading Subject:  CHM
+https://webapp4.asu.edu/catalog/classlist?s=CHM&t=2157&e=all&hon=F
+TOTAL CHM CLASSES:  527
+Loading Subject:  CHP
+https://webapp4.asu.edu/catalog/classlist?s=CHP&t=2157&e=all&hon=F
+TOTAL CHP CLASSES:  0
+Loading Subject:  CHS
+https://webapp4.asu.edu/catalog/classlist?s=CHS&t=2157&e=all&hon=F
+TOTAL CHS CLASSES:  0
+Loading Subject:  CIM
+https://webapp4.asu.edu/catalog/classlist?s=CIM&t=2157&e=all&hon=F
+TOTAL CIM CLASSES:  0
+Loading Subject:  CIS
+https://webapp4.asu.edu/catalog/classlist?s=CIS&t=2157&e=all&hon=F
+TOTAL CIS CLASSES:  70
+Loading Subject:  CMN
+https://webapp4.asu.edu/catalog/classlist?s=CMN&t=2157&e=all&hon=F
+TOTAL CMN CLASSES:  22
+Loading Subject:  CNE
+https://webapp4.asu.edu/catalog/classlist?s=CNE&t=2157&e=all&hon=F
+TOTAL CNE CLASSES:  38
+Loading Subject:  COE
+https://webapp4.asu.edu/catalog/classlist?s=COE&t=2157&e=all&hon=F
+TOTAL COE CLASSES:  5
+Loading Subject:  COM
+https://webapp4.asu.edu/catalog/classlist?s=COM&t=2157&e=all&hon=F
+TOTAL COM CLASSES:  315
+Loading Subject:  CON
+https://webapp4.asu.edu/catalog/classlist?s=CON&t=2157&e=all&hon=F
+TOTAL CON CLASSES:  76
+Loading Subject:  CPI
+https://webapp4.asu.edu/catalog/classlist?s=CPI&t=2157&e=all&hon=F
+TOTAL CPI CLASSES:  12
+Loading Subject:  CPP
+https://webapp4.asu.edu/catalog/classlist?s=CPP&t=2157&e=all&hon=F
+TOTAL CPP CLASSES:  8
+Loading Subject:  CPY
+https://webapp4.asu.edu/catalog/classlist?s=CPY&t=2157&e=all&hon=F
+TOTAL CPY CLASSES:  21
+Loading Subject:  CRD
+https://webapp4.asu.edu/catalog/classlist?s=CRD&t=2157&e=all&hon=F
+TOTAL CRD CLASSES:  30
+Loading Subject:  CRJ
+https://webapp4.asu.edu/catalog/classlist?s=CRJ&t=2157&e=all&hon=F
+TOTAL CRJ CLASSES:  89
+Loading Subject:  CSE
+https://webapp4.asu.edu/catalog/classlist?s=CSE&t=2157&e=all&hon=F
+TOTAL CSE CLASSES:  187
+Loading Subject:  CSM
+https://webapp4.asu.edu/catalog/classlist?s=CSM&t=2157&e=all&hon=F
+TOTAL CSM CLASSES:  3
+Loading Subject:  CSS
+https://webapp4.asu.edu/catalog/classlist?s=CSS&t=2157&e=all&hon=F
+TOTAL CSS CLASSES:  0
+Loading Subject:  CST
+https://webapp4.asu.edu/catalog/classlist?s=CST&t=2157&e=all&hon=F
+TOTAL CST CLASSES:  17
+Loading Subject:  CTI
+https://webapp4.asu.edu/catalog/classlist?s=CTI&t=2157&e=all&hon=F
+TOTAL CTI CLASSES:  0
+Loading Subject:  DAH
+https://webapp4.asu.edu/catalog/classlist?s=DAH&t=2157&e=all&hon=F
+TOTAL DAH CLASSES:  0
+Loading Subject:  DAN
+https://webapp4.asu.edu/catalog/classlist?s=DAN&t=2157&e=all&hon=F
+TOTAL DAN CLASSES:  0
+Loading Subject:  DBA
+https://webapp4.asu.edu/catalog/classlist?s=DBA&t=2157&e=all&hon=F
+TOTAL DBA CLASSES:  6
+Loading Subject:  DCE
+https://webapp4.asu.edu/catalog/classlist?s=DCE&t=2157&e=all&hon=F
+TOTAL DCE CLASSES:  126
+Loading Subject:  DCI
+https://webapp4.asu.edu/catalog/classlist?s=DCI&t=2157&e=all&hon=F
+TOTAL DCI CLASSES:  18
+Loading Subject:  DNP
+https://webapp4.asu.edu/catalog/classlist?s=DNP&t=2157&e=all&hon=F
+TOTAL DNP CLASSES:  85
+Loading Subject:  DSC
+https://webapp4.asu.edu/catalog/classlist?s=DSC&t=2157&e=all&hon=F
+TOTAL DSC CLASSES:  36
+Loading Subject:  EAC
+https://webapp4.asu.edu/catalog/classlist?s=EAC&t=2157&e=all&hon=F
+TOTAL EAC CLASSES:  0
+Loading Subject:  ECD
+https://webapp4.asu.edu/catalog/classlist?s=ECD&t=2157&e=all&hon=F
+TOTAL ECD CLASSES:  9
+Loading Subject:  ECN
+https://webapp4.asu.edu/catalog/classlist?s=ECN&t=2157&e=all&hon=F
+TOTAL ECN CLASSES:  120
+Loading Subject:  ECS
+https://webapp4.asu.edu/catalog/classlist?s=ECS&t=2157&e=all&hon=F
+TOTAL ECS CLASSES:  3
+Loading Subject:  ECT
+https://webapp4.asu.edu/catalog/classlist?s=ECT&t=2157&e=all&hon=F
+TOTAL ECT CLASSES:  0
+Loading Subject:  EDA
+https://webapp4.asu.edu/catalog/classlist?s=EDA&t=2157&e=all&hon=F
+TOTAL EDA CLASSES:  11
+Loading Subject:  EDP
+https://webapp4.asu.edu/catalog/classlist?s=EDP&t=2157&e=all&hon=F
+TOTAL EDP CLASSES:  25
+Loading Subject:  EDS
+https://webapp4.asu.edu/catalog/classlist?s=EDS&t=2157&e=all&hon=F
+TOTAL EDS CLASSES:  2
+Loading Subject:  EDT
+https://webapp4.asu.edu/catalog/classlist?s=EDT&t=2157&e=all&hon=F
+TOTAL EDT CLASSES:  52
+Loading Subject:  EED
+https://webapp4.asu.edu/catalog/classlist?s=EED&t=2157&e=all&hon=F
+TOTAL EED CLASSES:  24
+Loading Subject:  EEE
+https://webapp4.asu.edu/catalog/classlist?s=EEE&t=2157&e=all&hon=F
+TOTAL EEE CLASSES:  215
+Loading Subject:  EET
+https://webapp4.asu.edu/catalog/classlist?s=EET&t=2157&e=all&hon=F
+TOTAL EET CLASSES:  8
+Loading Subject:  EGR
+https://webapp4.asu.edu/catalog/classlist?s=EGR&t=2157&e=all&hon=F
+TOTAL EGR CLASSES:  98
+Loading Subject:  ELL
+https://webapp4.asu.edu/catalog/classlist?s=ELL&t=2157&e=all&hon=F
+TOTAL ELL CLASSES:  12
+Loading Subject:  ELS
+https://webapp4.asu.edu/catalog/classlist?s=ELS&t=2157&e=all&hon=F
+TOTAL ELS CLASSES:  5
+Loading Subject:  EMS
+https://webapp4.asu.edu/catalog/classlist?s=EMS&t=2157&e=all&hon=F
+TOTAL EMS CLASSES:  5
+Loading Subject:  ENE
+https://webapp4.asu.edu/catalog/classlist?s=ENE&t=2157&e=all&hon=F
+TOTAL ENE CLASSES:  0
+Loading Subject:  ENG
+https://webapp4.asu.edu/catalog/classlist?s=ENG&t=2157&e=all&hon=F
+TOTAL ENG CLASSES:  719
+ERROR ENG
+Loading Subject:  ENV
+https://webapp4.asu.edu/catalog/classlist?s=ENV&t=2157&e=all&hon=F
+TOTAL ENV CLASSES:  1
+Loading Subject:  EPA
+https://webapp4.asu.edu/catalog/classlist?s=EPA&t=2157&e=all&hon=F
+TOTAL EPA CLASSES:  10
+Loading Subject:  EPD
+https://webapp4.asu.edu/catalog/classlist?s=EPD&t=2157&e=all&hon=F
+TOTAL EPD CLASSES:  5
+Loading Subject:  ERM
+https://webapp4.asu.edu/catalog/classlist?s=ERM&t=2157&e=all&hon=F
+TOTAL ERM CLASSES:  24
+Loading Subject:  ESS
+https://webapp4.asu.edu/catalog/classlist?s=ESS&t=2157&e=all&hon=F
+TOTAL ESS CLASSES:  7
+Loading Subject:  EST
+https://webapp4.asu.edu/catalog/classlist?s=EST&t=2157&e=all&hon=F
+TOTAL EST CLASSES:  15
+Loading Subject:  ETH
+https://webapp4.asu.edu/catalog/classlist?s=ETH&t=2157&e=all&hon=F
+TOTAL ETH CLASSES:  1
+Loading Subject:  EVO
+https://webapp4.asu.edu/catalog/classlist?s=EVO&t=2157&e=all&hon=F
+TOTAL EVO CLASSES:  8
+Loading Subject:  EXW
+https://webapp4.asu.edu/catalog/classlist?s=EXW&t=2157&e=all&hon=F
+TOTAL EXW CLASSES:  146
+Loading Subject:  FAR
+https://webapp4.asu.edu/catalog/classlist?s=FAR&t=2157&e=all&hon=F
+TOTAL FAR CLASSES:  0
+Loading Subject:  FAS
+https://webapp4.asu.edu/catalog/classlist?s=FAS&t=2157&e=all&hon=F
+TOTAL FAS CLASSES:  87
+Loading Subject:  FIN
+https://webapp4.asu.edu/catalog/classlist?s=FIN&t=2157&e=all&hon=F
+TOTAL FIN CLASSES:  63
+Loading Subject:  FLA
+https://webapp4.asu.edu/catalog/classlist?s=FLA&t=2157&e=all&hon=F
+TOTAL FLA CLASSES:  0
+Loading Subject:  FMP
+https://webapp4.asu.edu/catalog/classlist?s=FMP&t=2157&e=all&hon=F
+TOTAL FMP CLASSES:  66
+Loading Subject:  FMS
+https://webapp4.asu.edu/catalog/classlist?s=FMS&t=2157&e=all&hon=F
+TOTAL FMS CLASSES:  31
+Loading Subject:  FOR
+https://webapp4.asu.edu/catalog/classlist?s=FOR&t=2157&e=all&hon=F
+TOTAL FOR CLASSES:  20
+Loading Subject:  FRE
+https://webapp4.asu.edu/catalog/classlist?s=FRE&t=2157&e=all&hon=F
+TOTAL FRE CLASSES:  56
+Loading Subject:  FSE
+https://webapp4.asu.edu/catalog/classlist?s=FSE&t=2157&e=all&hon=F
+TOTAL FSE CLASSES:  131
+Loading Subject:  FYC
+https://webapp4.asu.edu/catalog/classlist?s=FYC&t=2157&e=all&hon=F
+TOTAL FYC CLASSES:  0
+Loading Subject:  GBL
+https://webapp4.asu.edu/catalog/classlist?s=GBL&t=2157&e=all&hon=F
+TOTAL GBL CLASSES:  0
+Loading Subject:  GCU
+https://webapp4.asu.edu/catalog/classlist?s=GCU&t=2157&e=all&hon=F
+TOTAL GCU CLASSES:  63
+Loading Subject:  GER
+https://webapp4.asu.edu/catalog/classlist?s=GER&t=2157&e=all&hon=F
+TOTAL GER CLASSES:  31
+Loading Subject:  GIS
+https://webapp4.asu.edu/catalog/classlist?s=GIS&t=2157&e=all&hon=F
+TOTAL GIS CLASSES:  28
+Loading Subject:  GIT
+https://webapp4.asu.edu/catalog/classlist?s=GIT&t=2157&e=all&hon=F
+TOTAL GIT CLASSES:  52
+Loading Subject:  GLG
+https://webapp4.asu.edu/catalog/classlist?s=GLG&t=2157&e=all&hon=F
+TOTAL GLG CLASSES:  76
+Loading Subject:  GPH
+https://webapp4.asu.edu/catalog/classlist?s=GPH&t=2157&e=all&hon=F
+TOTAL GPH CLASSES:  89
+Loading Subject:  GRA
+https://webapp4.asu.edu/catalog/classlist?s=GRA&t=2157&e=all&hon=F
+TOTAL GRA CLASSES:  49
+Loading Subject:  GRD
+https://webapp4.asu.edu/catalog/classlist?s=GRD&t=2157&e=all&hon=F
+TOTAL GRD CLASSES:  4
+Loading Subject:  GRK
+https://webapp4.asu.edu/catalog/classlist?s=GRK&t=2157&e=all&hon=F
+TOTAL GRK CLASSES:  11
+Loading Subject:  GTD
+https://webapp4.asu.edu/catalog/classlist?s=GTD&t=2157&e=all&hon=F
+TOTAL GTD CLASSES:  11
+Loading Subject:  HCD
+https://webapp4.asu.edu/catalog/classlist?s=HCD&t=2157&e=all&hon=F
+TOTAL HCD CLASSES:  16
+Loading Subject:  HCI
+https://webapp4.asu.edu/catalog/classlist?s=HCI&t=2157&e=all&hon=F
+TOTAL HCI CLASSES:  2
+Loading Subject:  HCR
+https://webapp4.asu.edu/catalog/classlist?s=HCR&t=2157&e=all&hon=F
+TOTAL HCR CLASSES:  49
+Loading Subject:  HDA
+https://webapp4.asu.edu/catalog/classlist?s=HDA&t=2157&e=all&hon=F
+TOTAL HDA CLASSES:  6
+Loading Subject:  HEB
+https://webapp4.asu.edu/catalog/classlist?s=HEB&t=2157&e=all&hon=F
+TOTAL HEB CLASSES:  9
+Loading Subject:  HED
+https://webapp4.asu.edu/catalog/classlist?s=HED&t=2157&e=all&hon=F
+TOTAL HED CLASSES:  21
+Loading Subject:  HES
+https://webapp4.asu.edu/catalog/classlist?s=HES&t=2157&e=all&hon=F
+TOTAL HES CLASSES:  0
+Loading Subject:  HHE
+https://webapp4.asu.edu/catalog/classlist?s=HHE&t=2157&e=all&hon=F
+TOTAL HHE CLASSES:  2
+Loading Subject:  HIN
+https://webapp4.asu.edu/catalog/classlist?s=HIN&t=2157&e=all&hon=F
+TOTAL HIN CLASSES:  1
+Loading Subject:  HON
+https://webapp4.asu.edu/catalog/classlist?s=HON&t=2157&e=all&hon=F
+TOTAL HON CLASSES:  199
+Loading Subject:  HPS
+https://webapp4.asu.edu/catalog/classlist?s=HPS&t=2157&e=all&hon=F
+TOTAL HPS CLASSES:  24
+Loading Subject:  HRC
+https://webapp4.asu.edu/catalog/classlist?s=HRC&t=2157&e=all&hon=F
+TOTAL HRC CLASSES:  2
+Loading Subject:  HSC
+https://webapp4.asu.edu/catalog/classlist?s=HSC&t=2157&e=all&hon=F
+TOTAL HSC CLASSES:  38
+Loading Subject:  HSD
+https://webapp4.asu.edu/catalog/classlist?s=HSD&t=2157&e=all&hon=F
+TOTAL HSD CLASSES:  23
+Loading Subject:  HSM
+https://webapp4.asu.edu/catalog/classlist?s=HSM&t=2157&e=all&hon=F
+TOTAL HSM CLASSES:  1
+Loading Subject:  HST
+https://webapp4.asu.edu/catalog/classlist?s=HST&t=2157&e=all&hon=F
+TOTAL HST CLASSES:  128
+Loading Subject:  HTY
+https://webapp4.asu.edu/catalog/classlist?s=HTY&t=2157&e=all&hon=F
+TOTAL HTY CLASSES:  0
+Loading Subject:  HUD
+https://webapp4.asu.edu/catalog/classlist?s=HUD&t=2157&e=all&hon=F
+TOTAL HUD CLASSES:  0
+Loading Subject:  HUM
+https://webapp4.asu.edu/catalog/classlist?s=HUM&t=2157&e=all&hon=F
+TOTAL HUM CLASSES:  0
+Loading Subject:  IAP
+https://webapp4.asu.edu/catalog/classlist?s=IAP&t=2157&e=all&hon=F
+TOTAL IAP CLASSES:  26
+Loading Subject:  IAS
+https://webapp4.asu.edu/catalog/classlist?s=IAS&t=2157&e=all&hon=F
+TOTAL IAS CLASSES:  33
+Loading Subject:  IBC
+https://webapp4.asu.edu/catalog/classlist?s=IBC&t=2157&e=all&hon=F
+TOTAL IBC CLASSES:  0
+Loading Subject:  IDN
+https://webapp4.asu.edu/catalog/classlist?s=IDN&t=2157&e=all&hon=F
+TOTAL IDN CLASSES:  5
+Loading Subject:  IED
+https://webapp4.asu.edu/catalog/classlist?s=IED&t=2157&e=all&hon=F
+TOTAL IED CLASSES:  3
+Loading Subject:  IEE
+https://webapp4.asu.edu/catalog/classlist?s=IEE&t=2157&e=all&hon=F
+TOTAL IEE CLASSES:  47
+Loading Subject:  IFT
+https://webapp4.asu.edu/catalog/classlist?s=IFT&t=2157&e=all&hon=F
+TOTAL IFT CLASSES:  20
+Loading Subject:  IMD
+https://webapp4.asu.edu/catalog/classlist?s=IMD&t=2157&e=all&hon=F
+TOTAL IMD CLASSES:  0
+Loading Subject:  IND
+https://webapp4.asu.edu/catalog/classlist?s=IND&t=2157&e=all&hon=F
+TOTAL IND CLASSES:  42
+Loading Subject:  INT
+https://webapp4.asu.edu/catalog/classlist?s=INT&t=2157&e=all&hon=F
+TOTAL INT CLASSES:  41
+Loading Subject:  ITA
+https://webapp4.asu.edu/catalog/classlist?s=ITA&t=2157&e=all&hon=F
+TOTAL ITA CLASSES:  29
+Loading Subject:  JAC
+https://webapp4.asu.edu/catalog/classlist?s=JAC&t=2157&e=all&hon=F
+TOTAL JAC CLASSES:  0
+Loading Subject:  JHR
+https://webapp4.asu.edu/catalog/classlist?s=JHR&t=2157&e=all&hon=F
+TOTAL JHR CLASSES:  13
+Loading Subject:  JMC
+https://webapp4.asu.edu/catalog/classlist?s=JMC&t=2157&e=all&hon=F
+TOTAL JMC CLASSES:  114
+Loading Subject:  JPN
+https://webapp4.asu.edu/catalog/classlist?s=JPN&t=2157&e=all&hon=F
+TOTAL JPN CLASSES:  27
+Loading Subject:  JST
+https://webapp4.asu.edu/catalog/classlist?s=JST&t=2157&e=all&hon=F
+TOTAL JST CLASSES:  5
+Loading Subject:  JUS
+https://webapp4.asu.edu/catalog/classlist?s=JUS&t=2157&e=all&hon=F
+TOTAL JUS CLASSES:  80
+Loading Subject:  KIN
+https://webapp4.asu.edu/catalog/classlist?s=KIN&t=2157&e=all&hon=F
+TOTAL KIN CLASSES:  31
+Loading Subject:  KOR
+https://webapp4.asu.edu/catalog/classlist?s=KOR&t=2157&e=all&hon=F
+TOTAL KOR CLASSES:  15
+Loading Subject:  LAA
+https://webapp4.asu.edu/catalog/classlist?s=LAA&t=2157&e=all&hon=F
+TOTAL LAA CLASSES:  0
+Loading Subject:  LAP
+https://webapp4.asu.edu/catalog/classlist?s=LAP&t=2157&e=all&hon=F
+TOTAL LAP CLASSES:  2
+Loading Subject:  LAS
+https://webapp4.asu.edu/catalog/classlist?s=LAS&t=2157&e=all&hon=F
+TOTAL LAS CLASSES:  2
+Loading Subject:  LAT
+https://webapp4.asu.edu/catalog/classlist?s=LAT&t=2157&e=all&hon=F
+TOTAL LAT CLASSES:  14
+Loading Subject:  LAW
+https://webapp4.asu.edu/catalog/classlist?s=LAW&t=2157&e=all&hon=F
+TOTAL LAW CLASSES:  137
+Loading Subject:  LDE
+https://webapp4.asu.edu/catalog/classlist?s=LDE&t=2157&e=all&hon=F
+TOTAL LDE CLASSES:  11
+Loading Subject:  LES
+https://webapp4.asu.edu/catalog/classlist?s=LES&t=2157&e=all&hon=F
+TOTAL LES CLASSES:  11
+Loading Subject:  LIA
+https://webapp4.asu.edu/catalog/classlist?s=LIA&t=2157&e=all&hon=F
+TOTAL LIA CLASSES:  5
+Loading Subject:  LIN
+https://webapp4.asu.edu/catalog/classlist?s=LIN&t=2157&e=all&hon=F
+TOTAL LIN CLASSES:  18
+Loading Subject:  LIS
+https://webapp4.asu.edu/catalog/classlist?s=LIS&t=2157&e=all&hon=F
+TOTAL LIS CLASSES:  0
+Loading Subject:  LNP
+https://webapp4.asu.edu/catalog/classlist?s=LNP&t=2157&e=all&hon=F
+TOTAL LNP CLASSES:  1
+Loading Subject:  LPH
+https://webapp4.asu.edu/catalog/classlist?s=LPH&t=2157&e=all&hon=F
+TOTAL LPH CLASSES:  3
+Loading Subject:  LSC
+https://webapp4.asu.edu/catalog/classlist?s=LSC&t=2157&e=all&hon=F
+TOTAL LSC CLASSES:  24
+Loading Subject:  LSE
+https://webapp4.asu.edu/catalog/classlist?s=LSE&t=2157&e=all&hon=F
+TOTAL LSE CLASSES:  1
+Loading Subject:  LTC
+https://webapp4.asu.edu/catalog/classlist?s=LTC&t=2157&e=all&hon=F
+TOTAL LTC CLASSES:  4
+Loading Subject:  MAE
+https://webapp4.asu.edu/catalog/classlist?s=MAE&t=2157&e=all&hon=F
+TOTAL MAE CLASSES:  129
+Loading Subject:  MAK
+https://webapp4.asu.edu/catalog/classlist?s=MAK&t=2157&e=all&hon=F
+TOTAL MAK CLASSES:  0
+Loading Subject:  MAS
+https://webapp4.asu.edu/catalog/classlist?s=MAS&t=2157&e=all&hon=F
+TOTAL MAS CLASSES:  20
+Loading Subject:  MAT
+https://webapp4.asu.edu/catalog/classlist?s=MAT&t=2157&e=all&hon=F
+TOTAL MAT CLASSES:  480
+Loading Subject:  MBB
+https://webapp4.asu.edu/catalog/classlist?s=MBB&t=2157&e=all&hon=F
+TOTAL MBB CLASSES:  18
+Loading Subject:  MCB
+https://webapp4.asu.edu/catalog/classlist?s=MCB&t=2157&e=all&hon=F
+TOTAL MCB CLASSES:  24
+Loading Subject:  MCE
+https://webapp4.asu.edu/catalog/classlist?s=MCE&t=2157&e=all&hon=F
+TOTAL MCE CLASSES:  0
+Loading Subject:  MCO
+https://webapp4.asu.edu/catalog/classlist?s=MCO&t=2157&e=all&hon=F
+TOTAL MCO CLASSES:  74
+Loading Subject:  MDC
+https://webapp4.asu.edu/catalog/classlist?s=MDC&t=2157&e=all&hon=F
+TOTAL MDC CLASSES:  1
+Loading Subject:  MDL
+https://webapp4.asu.edu/catalog/classlist?s=MDL&t=2157&e=all&hon=F
+TOTAL MDL CLASSES:  2
+Loading Subject:  MED
+https://webapp4.asu.edu/catalog/classlist?s=MED&t=2157&e=all&hon=F
+TOTAL MED CLASSES:  2
+Loading Subject:  MEE
+https://webapp4.asu.edu/catalog/classlist?s=MEE&t=2157&e=all&hon=F
+TOTAL MEE CLASSES:  39
+Loading Subject:  MET
+https://webapp4.asu.edu/catalog/classlist?s=MET&t=2157&e=all&hon=F
+TOTAL MET CLASSES:  44
+Loading Subject:  MFG
+https://webapp4.asu.edu/catalog/classlist?s=MFG&t=2157&e=all&hon=F
+TOTAL MFG CLASSES:  0
+Loading Subject:  MGT
+https://webapp4.asu.edu/catalog/classlist?s=MGT&t=2157&e=all&hon=F
+TOTAL MGT CLASSES:  98
+Loading Subject:  MHI
+https://webapp4.asu.edu/catalog/classlist?s=MHI&t=2157&e=all&hon=F
+TOTAL MHI CLASSES:  0
+Loading Subject:  MHL
+https://webapp4.asu.edu/catalog/classlist?s=MHL&t=2157&e=all&hon=F
+TOTAL MHL CLASSES:  20
+Loading Subject:  MIC
+https://webapp4.asu.edu/catalog/classlist?s=MIC&t=2157&e=all&hon=F
+TOTAL MIC CLASSES:  76
+Loading Subject:  MIS
+https://webapp4.asu.edu/catalog/classlist?s=MIS&t=2157&e=all&hon=F
+TOTAL MIS CLASSES:  12
+Loading Subject:  MKT
+https://webapp4.asu.edu/catalog/classlist?s=MKT&t=2157&e=all&hon=F
+TOTAL MKT CLASSES:  71
+Loading Subject:  MLS
+https://webapp4.asu.edu/catalog/classlist?s=MLS&t=2157&e=all&hon=F
+TOTAL MLS CLASSES:  17
+Loading Subject:  MPH
+https://webapp4.asu.edu/catalog/classlist?s=MPH&t=2157&e=all&hon=F
+TOTAL MPH CLASSES:  0
+Loading Subject:  MSC
+https://webapp4.asu.edu/catalog/classlist?s=MSC&t=2157&e=all&hon=F
+TOTAL MSC CLASSES:  0
+Loading Subject:  MSE
+https://webapp4.asu.edu/catalog/classlist?s=MSE&t=2157&e=all&hon=F
+TOTAL MSE CLASSES:  57
+Loading Subject:  MSI
+https://webapp4.asu.edu/catalog/classlist?s=MSI&t=2157&e=all&hon=F
+TOTAL MSI CLASSES:  1
+Loading Subject:  MTC
+https://webapp4.asu.edu/catalog/classlist?s=MTC&t=2157&e=all&hon=F
+TOTAL MTC CLASSES:  35
+Loading Subject:  MTE
+https://webapp4.asu.edu/catalog/classlist?s=MTE&t=2157&e=all&hon=F
+TOTAL MTE CLASSES:  26
+Loading Subject:  MUD
+https://webapp4.asu.edu/catalog/classlist?s=MUD&t=2157&e=all&hon=F
+TOTAL MUD CLASSES:  6
+Loading Subject:  MUE
+https://webapp4.asu.edu/catalog/classlist?s=MUE&t=2157&e=all&hon=F
+TOTAL MUE CLASSES:  63
+Loading Subject:  MUP
+https://webapp4.asu.edu/catalog/classlist?s=MUP&t=2157&e=all&hon=F
+TOTAL MUP CLASSES:  551
+Loading Subject:  MUS
+https://webapp4.asu.edu/catalog/classlist?s=MUS&t=2157&e=all&hon=F
+TOTAL MUS CLASSES:  60
+Loading Subject:  NAN
+https://webapp4.asu.edu/catalog/classlist?s=NAN&t=2157&e=all&hon=F
+TOTAL NAN CLASSES:  8
+Loading Subject:  NAV
+https://webapp4.asu.edu/catalog/classlist?s=NAV&t=2157&e=all&hon=F
+TOTAL NAV CLASSES:  13
+Loading Subject:  NEU
+https://webapp4.asu.edu/catalog/classlist?s=NEU&t=2157&e=all&hon=F
+TOTAL NEU CLASSES:  12
+Loading Subject:  NEW
+https://webapp4.asu.edu/catalog/classlist?s=NEW&t=2157&e=all&hon=F
+TOTAL NEW CLASSES:  0
+Loading Subject:  NLM
+https://webapp4.asu.edu/catalog/classlist?s=NLM&t=2157&e=all&hon=F
+TOTAL NLM CLASSES:  36
+Loading Subject:  NTR
+https://webapp4.asu.edu/catalog/classlist?s=NTR&t=2157&e=all&hon=F
+TOTAL NTR CLASSES:  107
+Loading Subject:  NUR
+https://webapp4.asu.edu/catalog/classlist?s=NUR&t=2157&e=all&hon=F
+TOTAL NUR CLASSES:  182
+Loading Subject:  OBS
+https://webapp4.asu.edu/catalog/classlist?s=OBS&t=2157&e=all&hon=F
+TOTAL OBS CLASSES:  2
+Loading Subject:  OGL
+https://webapp4.asu.edu/catalog/classlist?s=OGL&t=2157&e=all&hon=F
+TOTAL OGL CLASSES:  7
+Loading Subject:  OMT
+https://webapp4.asu.edu/catalog/classlist?s=OMT&t=2157&e=all&hon=F
+TOTAL OMT CLASSES:  10
+Loading Subject:  OPM
+https://webapp4.asu.edu/catalog/classlist?s=OPM&t=2157&e=all&hon=F
+TOTAL OPM CLASSES:  0
+Loading Subject:  PAF
+https://webapp4.asu.edu/catalog/classlist?s=PAF&t=2157&e=all&hon=F
+TOTAL PAF CLASSES:  71
+Loading Subject:  PBH
+https://webapp4.asu.edu/catalog/classlist?s=PBH&t=2157&e=all&hon=F
+TOTAL PBH CLASSES:  4
+Loading Subject:  PGM
+https://webapp4.asu.edu/catalog/classlist?s=PGM&t=2157&e=all&hon=F
+TOTAL PGM CLASSES:  0
+Loading Subject:  PGV
+https://webapp4.asu.edu/catalog/classlist?s=PGV&t=2157&e=all&hon=F
+TOTAL PGV CLASSES:  0
+Loading Subject:  PHI
+https://webapp4.asu.edu/catalog/classlist?s=PHI&t=2157&e=all&hon=F
+TOTAL PHI CLASSES:  76
+Loading Subject:  PHL
+https://webapp4.asu.edu/catalog/classlist?s=PHL&t=2157&e=all&hon=F
+TOTAL PHL CLASSES:  0
+Loading Subject:  PHS
+https://webapp4.asu.edu/catalog/classlist?s=PHS&t=2157&e=all&hon=F
+TOTAL PHS CLASSES:  9
+Loading Subject:  PHY
+https://webapp4.asu.edu/catalog/classlist?s=PHY&t=2157&e=all&hon=F
+TOTAL PHY CLASSES:  352
+Loading Subject:  PLA
+https://webapp4.asu.edu/catalog/classlist?s=PLA&t=2157&e=all&hon=F
+TOTAL PLA CLASSES:  0
+Loading Subject:  PLB
+https://webapp4.asu.edu/catalog/classlist?s=PLB&t=2157&e=all&hon=F
+TOTAL PLB CLASSES:  28
+Loading Subject:  PLC
+https://webapp4.asu.edu/catalog/classlist?s=PLC&t=2157&e=all&hon=F
+TOTAL PLC CLASSES:  4
+Loading Subject:  POR
+https://webapp4.asu.edu/catalog/classlist?s=POR&t=2157&e=all&hon=F
+TOTAL POR CLASSES:  12
+Loading Subject:  POS
+https://webapp4.asu.edu/catalog/classlist?s=POS&t=2157&e=all&hon=F
+TOTAL POS CLASSES:  115
+ERROR POS
+Loading Subject:  PPE
+https://webapp4.asu.edu/catalog/classlist?s=PPE&t=2157&e=all&hon=F
+TOTAL PPE CLASSES:  111
+Loading Subject:  PRM
+https://webapp4.asu.edu/catalog/classlist?s=PRM&t=2157&e=all&hon=F
+TOTAL PRM CLASSES:  32
+Loading Subject:  PSB
+https://webapp4.asu.edu/catalog/classlist?s=PSB&t=2157&e=all&hon=F
+TOTAL PSB CLASSES:  4
+Loading Subject:  PSY
+https://webapp4.asu.edu/catalog/classlist?s=PSY&t=2157&e=all&hon=F
+TOTAL PSY CLASSES:  310
+Loading Subject:  PUB
+https://webapp4.asu.edu/catalog/classlist?s=PUB&t=2157&e=all&hon=F
+TOTAL PUB CLASSES:  0
+Loading Subject:  PUP
+https://webapp4.asu.edu/catalog/classlist?s=PUP&t=2157&e=all&hon=F
+TOTAL PUP CLASSES:  64
+Loading Subject:  QBA
+https://webapp4.asu.edu/catalog/classlist?s=QBA&t=2157&e=all&hon=F
+TOTAL QBA CLASSES:  0
+Loading Subject:  RDG
+https://webapp4.asu.edu/catalog/classlist?s=RDG&t=2157&e=all&hon=F
+TOTAL RDG CLASSES:  24
+Loading Subject:  REA
+https://webapp4.asu.edu/catalog/classlist?s=REA&t=2157&e=all&hon=F
+TOTAL REA CLASSES:  7
+Loading Subject:  RED
+https://webapp4.asu.edu/catalog/classlist?s=RED&t=2157&e=all&hon=F
+TOTAL RED CLASSES:  9
+Loading Subject:  REL
+https://webapp4.asu.edu/catalog/classlist?s=REL&t=2157&e=all&hon=F
+TOTAL REL CLASSES:  81
+Loading Subject:  ROM
+https://webapp4.asu.edu/catalog/classlist?s=ROM&t=2157&e=all&hon=F
+TOTAL ROM CLASSES:  17
+Loading Subject:  RTM
+https://webapp4.asu.edu/catalog/classlist?s=RTM&t=2157&e=all&hon=F
+TOTAL RTM CLASSES:  0
+Loading Subject:  RUS
+https://webapp4.asu.edu/catalog/classlist?s=RUS&t=2157&e=all&hon=F
+TOTAL RUS CLASSES:  16
+Loading Subject:  SAO
+https://webapp4.asu.edu/catalog/classlist?s=SAO&t=2157&e=all&hon=F
+TOTAL SAO CLASSES:  0
+Loading Subject:  SBS
+https://webapp4.asu.edu/catalog/classlist?s=SBS&t=2157&e=all&hon=F
+TOTAL SBS CLASSES:  18
+Loading Subject:  SCM
+https://webapp4.asu.edu/catalog/classlist?s=SCM&t=2157&e=all&hon=F
+TOTAL SCM CLASSES:  79
+Loading Subject:  SCN
+https://webapp4.asu.edu/catalog/classlist?s=SCN&t=2157&e=all&hon=F
+TOTAL SCN CLASSES:  7
+Loading Subject:  SEC
+https://webapp4.asu.edu/catalog/classlist?s=SEC&t=2157&e=all&hon=F
+TOTAL SEC CLASSES:  6
+Loading Subject:  SED
+https://webapp4.asu.edu/catalog/classlist?s=SED&t=2157&e=all&hon=F
+TOTAL SED CLASSES:  37
+Loading Subject:  SEM
+https://webapp4.asu.edu/catalog/classlist?s=SEM&t=2157&e=all&hon=F
+TOTAL SEM CLASSES:  1
+Loading Subject:  SER
+https://webapp4.asu.edu/catalog/classlist?s=SER&t=2157&e=all&hon=F
+TOTAL SER CLASSES:  21
+Loading Subject:  SES
+https://webapp4.asu.edu/catalog/classlist?s=SES&t=2157&e=all&hon=F
+TOTAL SES CLASSES:  25
+Loading Subject:  SET
+https://webapp4.asu.edu/catalog/classlist?s=SET&t=2157&e=all&hon=F
+TOTAL SET CLASSES:  0
+Loading Subject:  SGS
+https://webapp4.asu.edu/catalog/classlist?s=SGS&t=2157&e=all&hon=F
+TOTAL SGS CLASSES:  30
+Loading Subject:  SHS
+https://webapp4.asu.edu/catalog/classlist?s=SHS&t=2157&e=all&hon=F
+TOTAL SHS CLASSES:  99
+Loading Subject:  SLB
+https://webapp4.asu.edu/catalog/classlist?s=SLB&t=2157&e=all&hon=F
+TOTAL SLB CLASSES:  0
+Loading Subject:  SLC
+https://webapp4.asu.edu/catalog/classlist?s=SLC&t=2157&e=all&hon=F
+TOTAL SLC CLASSES:  54
+Loading Subject:  SLV
+https://webapp4.asu.edu/catalog/classlist?s=SLV&t=2157&e=all&hon=F
+TOTAL SLV CLASSES:  7
+Loading Subject:  SMC
+https://webapp4.asu.edu/catalog/classlist?s=SMC&t=2157&e=all&hon=F
+TOTAL SMC CLASSES:  3
+Loading Subject:  SOC
+https://webapp4.asu.edu/catalog/classlist?s=SOC&t=2157&e=all&hon=F
+TOTAL SOC CLASSES:  108
+Loading Subject:  SOS
+https://webapp4.asu.edu/catalog/classlist?s=SOS&t=2157&e=all&hon=F
+TOTAL SOS CLASSES:  131
+Loading Subject:  SPA
+https://webapp4.asu.edu/catalog/classlist?s=SPA&t=2157&e=all&hon=F
+TOTAL SPA CLASSES:  176
+Loading Subject:  SPE
+https://webapp4.asu.edu/catalog/classlist?s=SPE&t=2157&e=all&hon=F
+TOTAL SPE CLASSES:  56
+Loading Subject:  SPF
+https://webapp4.asu.edu/catalog/classlist?s=SPF&t=2157&e=all&hon=F
+TOTAL SPF CLASSES:  4
+Loading Subject:  SSH
+https://webapp4.asu.edu/catalog/classlist?s=SSH&t=2157&e=all&hon=F
+TOTAL SSH CLASSES:  10
+Loading Subject:  SST
+https://webapp4.asu.edu/catalog/classlist?s=SST&t=2157&e=all&hon=F
+TOTAL SST CLASSES:  14
+Loading Subject:  STC
+https://webapp4.asu.edu/catalog/classlist?s=STC&t=2157&e=all&hon=F
+TOTAL STC CLASSES:  2
+Loading Subject:  STM
+https://webapp4.asu.edu/catalog/classlist?s=STM&t=2157&e=all&hon=F
+TOTAL STM CLASSES:  0
+Loading Subject:  STP
+https://webapp4.asu.edu/catalog/classlist?s=STP&t=2157&e=all&hon=F
+TOTAL STP CLASSES:  57
+Loading Subject:  STS
+https://webapp4.asu.edu/catalog/classlist?s=STS&t=2157&e=all&hon=F
+TOTAL STS CLASSES:  25
+Loading Subject:  SWE
+https://webapp4.asu.edu/catalog/classlist?s=SWE&t=2157&e=all&hon=F
+TOTAL SWE CLASSES:  0
+Loading Subject:  SWG
+https://webapp4.asu.edu/catalog/classlist?s=SWG&t=2157&e=all&hon=F
+TOTAL SWG CLASSES:  143
+ERROR SWG
+Loading Subject:  SWU
+https://webapp4.asu.edu/catalog/classlist?s=SWU&t=2157&e=all&hon=F
+TOTAL SWU CLASSES:  100
+Loading Subject:  TBX
+https://webapp4.asu.edu/catalog/classlist?s=TBX&t=2157&e=all&hon=F
+TOTAL TBX CLASSES:  0
+Loading Subject:  TCL
+https://webapp4.asu.edu/catalog/classlist?s=TCL&t=2157&e=all&hon=F
+Terminated: 15
+0xZ3R0-MPB-5:ASU_Class_Finder zpriddy$ date > log_sub.txt && ./beta_0_1.py -s SCE -n 110 && date >> log_sub.txt
+Loading Subject:  AAD
+https://webapp4.asu.edu/catalog/classlist?s=AAD&t=2157&e=all&hon=F
+TOTAL AAD CLASSES:  0
+Loading Subject:  ABS
+https://webapp4.asu.edu/catalog/classlist?s=ABS&t=2157&e=all&hon=F
+TOTAL ABS CLASSES:  50
+Loading Subject:  ACC
+https://webapp4.asu.edu/catalog/classlist?s=ACC&t=2157&e=all&hon=F
+TOTAL ACC CLASSES:  116
+Loading Subject:  ACO
+https://webapp4.asu.edu/catalog/classlist?s=ACO&t=2157&e=all&hon=F
+Terminated: 15
+0xZ3R0-MPB-5:ASU_Class_Finder zpriddy$ date > log_sub.txt && ./beta_0_1.py -s SCE -n 110 && date >> log_sub.txt
+Loading Subject:  AAD
+https://webapp4.asu.edu/catalog/classlist?s=AAD&t=2157&e=all&hon=F
+TOTAL AAD CLASSES:  0
+Loading Subject:  ABS
+https://webapp4.asu.edu/catalog/classlist?s=ABS&t=2157&e=all&hon=F
+TOTAL ABS CLASSES:  50
+Loading Subject:  ACC
+https://webapp4.asu.edu/catalog/classlist?s=ACC&t=2157&e=all&hon=F
+TOTAL ACC CLASSES:  116
+Loading Subject:  ACO
+https://webapp4.asu.edu/catalog/classlist?s=ACO&t=2157&e=all&hon=F
+TOTAL ACO CLASSES:  13
+Loading Subject:  ACT
+https://webapp4.asu.edu/catalog/classlist?s=ACT&t=2157&e=all&hon=F
+TOTAL ACT CLASSES:  7
+Loading Subject:  ADE
+https://webapp4.asu.edu/catalog/classlist?s=ADE&t=2157&e=all&hon=F
+TOTAL ADE CLASSES:  15
+Loading Subject:  AEC
+https://webapp4.asu.edu/catalog/classlist?s=AEC&t=2157&e=all&hon=F
+TOTAL AEC CLASSES:  900
+Loading Subject:  AEE
+https://webapp4.asu.edu/catalog/classlist?s=AEE&t=2157&e=all&hon=F
+TOTAL AEE CLASSES:  27
+Loading Subject:  AEP
+https://webapp4.asu.edu/catalog/classlist?s=AEP&t=2157&e=all&hon=F
+TOTAL AEP CLASSES:  4
+Loading Subject:  AES
+https://webapp4.asu.edu/catalog/classlist?s=AES&t=2157&e=all&hon=F
+TOTAL AES CLASSES:  11
+Loading Subject:  AET
+https://webapp4.asu.edu/catalog/classlist?s=AET&t=2157&e=all&hon=F
+TOTAL AET CLASSES:  5
+Loading Subject:  AFR
+https://webapp4.asu.edu/catalog/classlist?s=AFR&t=2157&e=all&hon=F
+TOTAL AFR CLASSES:  28
+Loading Subject:  AGB
+https://webapp4.asu.edu/catalog/classlist?s=AGB&t=2157&e=all&hon=F
+TOTAL AGB CLASSES:  22
+Loading Subject:  AIS
+https://webapp4.asu.edu/catalog/classlist?s=AIS&t=2157&e=all&hon=F
+TOTAL AIS CLASSES:  23
+Loading Subject:  ALA
+https://webapp4.asu.edu/catalog/classlist?s=ALA&t=2157&e=all&hon=F
+TOTAL ALA CLASSES:  30
+Loading Subject:  ALD
+https://webapp4.asu.edu/catalog/classlist?s=ALD&t=2157&e=all&hon=F
+TOTAL ALD CLASSES:  0
+Loading Subject:  ALT
+https://webapp4.asu.edu/catalog/classlist?s=ALT&t=2157&e=all&hon=F
+TOTAL ALT CLASSES:  6
+Loading Subject:  AME
+https://webapp4.asu.edu/catalog/classlist?s=AME&t=2157&e=all&hon=F
+TOTAL AME CLASSES:  42
+ERROR AME
+Loading Subject:  AML
+https://webapp4.asu.edu/catalog/classlist?s=AML&t=2157&e=all&hon=F
+TOTAL AML CLASSES:  10
+Loading Subject:  AMS
+https://webapp4.asu.edu/catalog/classlist?s=AMS&t=2157&e=all&hon=F
+TOTAL AMS CLASSES:  4
+Loading Subject:  AMT
+https://webapp4.asu.edu/catalog/classlist?s=AMT&t=2157&e=all&hon=F
+TOTAL AMT CLASSES:  59
+Loading Subject:  ANB
+https://webapp4.asu.edu/catalog/classlist?s=ANB&t=2157&e=all&hon=F
+TOTAL ANB CLASSES:  6
+Loading Subject:  ANP
+https://webapp4.asu.edu/catalog/classlist?s=ANP&t=2157&e=all&hon=F
+TOTAL ANP CLASSES:  0
+Loading Subject:  APA
+https://webapp4.asu.edu/catalog/classlist?s=APA&t=2157&e=all&hon=F
+TOTAL APA CLASSES:  20
+Loading Subject:  APH
+https://webapp4.asu.edu/catalog/classlist?s=APH&t=2157&e=all&hon=F
+TOTAL APH CLASSES:  7
+Loading Subject:  APL
+https://webapp4.asu.edu/catalog/classlist?s=APL&t=2157&e=all&hon=F
+TOTAL APL CLASSES:  9
+Loading Subject:  APM
+https://webapp4.asu.edu/catalog/classlist?s=APM&t=2157&e=all&hon=F
+TOTAL APM CLASSES:  11
+Loading Subject:  ARA
+https://webapp4.asu.edu/catalog/classlist?s=ARA&t=2157&e=all&hon=F
+TOTAL ARA CLASSES:  23
+Loading Subject:  ARB
+https://webapp4.asu.edu/catalog/classlist?s=ARB&t=2157&e=all&hon=F
+TOTAL ARB CLASSES:  19
+Loading Subject:  ARE
+https://webapp4.asu.edu/catalog/classlist?s=ARE&t=2157&e=all&hon=F
+TOTAL ARE CLASSES:  24
+Loading Subject:  ARP
+https://webapp4.asu.edu/catalog/classlist?s=ARP&t=2157&e=all&hon=F
+TOTAL ARP CLASSES:  0
+Loading Subject:  ARS
+https://webapp4.asu.edu/catalog/classlist?s=ARS&t=2157&e=all&hon=F
+TOTAL ARS CLASSES:  62
+Loading Subject:  ART
+https://webapp4.asu.edu/catalog/classlist?s=ART&t=2157&e=all&hon=F
+TOTAL ART CLASSES:  193
+Loading Subject:  ASB
+https://webapp4.asu.edu/catalog/classlist?s=ASB&t=2157&e=all&hon=F
+TOTAL ASB CLASSES:  58
+Loading Subject:  ASC
+https://webapp4.asu.edu/catalog/classlist?s=ASC&t=2157&e=all&hon=F
+TOTAL ASC CLASSES:  0
+Loading Subject:  ASM
+https://webapp4.asu.edu/catalog/classlist?s=ASM&t=2157&e=all&hon=F
+TOTAL ASM CLASSES:  27
+Loading Subject:  AST
+https://webapp4.asu.edu/catalog/classlist?s=AST&t=2157&e=all&hon=F
+TOTAL AST CLASSES:  39
+Loading Subject:  ASU
+https://webapp4.asu.edu/catalog/classlist?s=ASU&t=2157&e=all&hon=F
+TOTAL ASU CLASSES:  470
+ERROR ASU
+Loading Subject:  ATC
+https://webapp4.asu.edu/catalog/classlist?s=ATC&t=2157&e=all&hon=F
+TOTAL ATC CLASSES:  15
+Loading Subject:  ATE
+https://webapp4.asu.edu/catalog/classlist?s=ATE&t=2157&e=all&hon=F
+TOTAL ATE CLASSES:  9
+Loading Subject:  AVC
+https://webapp4.asu.edu/catalog/classlist?s=AVC&t=2157&e=all&hon=F
+TOTAL AVC CLASSES:  0
+Loading Subject:  BCH
+https://webapp4.asu.edu/catalog/classlist?s=BCH&t=2157&e=all&hon=F
+TOTAL BCH CLASSES:  62
+Loading Subject:  BCS
+https://webapp4.asu.edu/catalog/classlist?s=BCS&t=2157&e=all&hon=F
+TOTAL BCS CLASSES:  4
+Loading Subject:  BDE
+https://webapp4.asu.edu/catalog/classlist?s=BDE&t=2157&e=all&hon=F
+TOTAL BDE CLASSES:  4
+Loading Subject:  BIO
+https://webapp4.asu.edu/catalog/classlist?s=BIO&t=2157&e=all&hon=F
+TOTAL BIO CLASSES:  490
+Loading Subject:  BIS
+https://webapp4.asu.edu/catalog/classlist?s=BIS&t=2157&e=all&hon=F
+TOTAL BIS CLASSES:  57
+Loading Subject:  BLE
+https://webapp4.asu.edu/catalog/classlist?s=BLE&t=2157&e=all&hon=F
+TOTAL BLE CLASSES:  15
+Loading Subject:  BMD
+https://webapp4.asu.edu/catalog/classlist?s=BMD&t=2157&e=all&hon=F
+TOTAL BMD CLASSES:  3
+Loading Subject:  BME
+https://webapp4.asu.edu/catalog/classlist?s=BME&t=2157&e=all&hon=F
+TOTAL BME CLASSES:  67
+Loading Subject:  BMI
+https://webapp4.asu.edu/catalog/classlist?s=BMI&t=2157&e=all&hon=F
+TOTAL BMI CLASSES:  41
+Loading Subject:  BMY
+https://webapp4.asu.edu/catalog/classlist?s=BMY&t=2157&e=all&hon=F
+TOTAL BMY CLASSES:  0
+Loading Subject:  BUA
+https://webapp4.asu.edu/catalog/classlist?s=BUA&t=2157&e=all&hon=F
+TOTAL BUA CLASSES:  4
+Loading Subject:  BUE
+https://webapp4.asu.edu/catalog/classlist?s=BUE&t=2157&e=all&hon=F
+TOTAL BUE CLASSES:  0
+Loading Subject:  BUS
+https://webapp4.asu.edu/catalog/classlist?s=BUS&t=2157&e=all&hon=F
+TOTAL BUS CLASSES:  0
+Loading Subject:  CBS
+https://webapp4.asu.edu/catalog/classlist?s=CBS&t=2157&e=all&hon=F
+TOTAL CBS CLASSES:  0
+Loading Subject:  CCS
+https://webapp4.asu.edu/catalog/classlist?s=CCS&t=2157&e=all&hon=F
+TOTAL CCS CLASSES:  0
+Loading Subject:  CDE
+https://webapp4.asu.edu/catalog/classlist?s=CDE&t=2157&e=all&hon=F
+TOTAL CDE CLASSES:  41
+Loading Subject:  CED
+https://webapp4.asu.edu/catalog/classlist?s=CED&t=2157&e=all&hon=F
+TOTAL CED CLASSES:  28
+Loading Subject:  CEE
+https://webapp4.asu.edu/catalog/classlist?s=CEE&t=2157&e=all&hon=F
+TOTAL CEE CLASSES:  114
+Loading Subject:  CEN
+https://webapp4.asu.edu/catalog/classlist?s=CEN&t=2157&e=all&hon=F
+TOTAL CEN CLASSES:  13
+Loading Subject:  CHE
+https://webapp4.asu.edu/catalog/classlist?s=CHE&t=2157&e=all&hon=F
+TOTAL CHE CLASSES:  38
+Loading Subject:  CHI
+https://webapp4.asu.edu/catalog/classlist?s=CHI&t=2157&e=all&hon=F
+TOTAL CHI CLASSES:  59
+Loading Subject:  CHM
+https://webapp4.asu.edu/catalog/classlist?s=CHM&t=2157&e=all&hon=F
+TOTAL CHM CLASSES:  527
+Loading Subject:  CHP
+https://webapp4.asu.edu/catalog/classlist?s=CHP&t=2157&e=all&hon=F
+TOTAL CHP CLASSES:  0
+Loading Subject:  CHS
+https://webapp4.asu.edu/catalog/classlist?s=CHS&t=2157&e=all&hon=F
+TOTAL CHS CLASSES:  0
+Loading Subject:  CIM
+https://webapp4.asu.edu/catalog/classlist?s=CIM&t=2157&e=all&hon=F
+TOTAL CIM CLASSES:  0
+Loading Subject:  CIS
+https://webapp4.asu.edu/catalog/classlist?s=CIS&t=2157&e=all&hon=F
+TOTAL CIS CLASSES:  70
+Loading Subject:  CMN
+https://webapp4.asu.edu/catalog/classlist?s=CMN&t=2157&e=all&hon=F
+TOTAL CMN CLASSES:  22
+Loading Subject:  CNE
+https://webapp4.asu.edu/catalog/classlist?s=CNE&t=2157&e=all&hon=F
+TOTAL CNE CLASSES:  38
+Loading Subject:  COE
+https://webapp4.asu.edu/catalog/classlist?s=COE&t=2157&e=all&hon=F
+TOTAL COE CLASSES:  5
+Loading Subject:  COM
+https://webapp4.asu.edu/catalog/classlist?s=COM&t=2157&e=all&hon=F
+TOTAL COM CLASSES:  315
+Loading Subject:  CON
+https://webapp4.asu.edu/catalog/classlist?s=CON&t=2157&e=all&hon=F
+TOTAL CON CLASSES:  76
+Loading Subject:  CPI
+https://webapp4.asu.edu/catalog/classlist?s=CPI&t=2157&e=all&hon=F
+TOTAL CPI CLASSES:  12
+Loading Subject:  CPP
+https://webapp4.asu.edu/catalog/classlist?s=CPP&t=2157&e=all&hon=F
+TOTAL CPP CLASSES:  8
+Loading Subject:  CPY
+https://webapp4.asu.edu/catalog/classlist?s=CPY&t=2157&e=all&hon=F
+TOTAL CPY CLASSES:  21
+Loading Subject:  CRD
+https://webapp4.asu.edu/catalog/classlist?s=CRD&t=2157&e=all&hon=F
+TOTAL CRD CLASSES:  30
+Loading Subject:  CRJ
+https://webapp4.asu.edu/catalog/classlist?s=CRJ&t=2157&e=all&hon=F
+TOTAL CRJ CLASSES:  89
+Loading Subject:  CSE
+https://webapp4.asu.edu/catalog/classlist?s=CSE&t=2157&e=all&hon=F
+TOTAL CSE CLASSES:  187
+Loading Subject:  CSM
+https://webapp4.asu.edu/catalog/classlist?s=CSM&t=2157&e=all&hon=F
+TOTAL CSM CLASSES:  3
+Loading Subject:  CSS
+https://webapp4.asu.edu/catalog/classlist?s=CSS&t=2157&e=all&hon=F
+TOTAL CSS CLASSES:  0
+Loading Subject:  CST
+https://webapp4.asu.edu/catalog/classlist?s=CST&t=2157&e=all&hon=F
+TOTAL CST CLASSES:  17
+Loading Subject:  CTI
+https://webapp4.asu.edu/catalog/classlist?s=CTI&t=2157&e=all&hon=F
+TOTAL CTI CLASSES:  0
+Loading Subject:  DAH
+https://webapp4.asu.edu/catalog/classlist?s=DAH&t=2157&e=all&hon=F
+TOTAL DAH CLASSES:  0
+Loading Subject:  DAN
+https://webapp4.asu.edu/catalog/classlist?s=DAN&t=2157&e=all&hon=F
+TOTAL DAN CLASSES:  0
+Loading Subject:  DBA
+https://webapp4.asu.edu/catalog/classlist?s=DBA&t=2157&e=all&hon=F
+TOTAL DBA CLASSES:  6
+Loading Subject:  DCE
+https://webapp4.asu.edu/catalog/classlist?s=DCE&t=2157&e=all&hon=F
+TOTAL DCE CLASSES:  126
+Loading Subject:  DCI
+https://webapp4.asu.edu/catalog/classlist?s=DCI&t=2157&e=all&hon=F
+TOTAL DCI CLASSES:  18
+Loading Subject:  DNP
+https://webapp4.asu.edu/catalog/classlist?s=DNP&t=2157&e=all&hon=F
+TOTAL DNP CLASSES:  85
+Loading Subject:  DSC
+https://webapp4.asu.edu/catalog/classlist?s=DSC&t=2157&e=all&hon=F
+TOTAL DSC CLASSES:  36
+Loading Subject:  EAC
+https://webapp4.asu.edu/catalog/classlist?s=EAC&t=2157&e=all&hon=F
+TOTAL EAC CLASSES:  0
+Loading Subject:  ECD
+https://webapp4.asu.edu/catalog/classlist?s=ECD&t=2157&e=all&hon=F
+TOTAL ECD CLASSES:  9
+Loading Subject:  ECN
+https://webapp4.asu.edu/catalog/classlist?s=ECN&t=2157&e=all&hon=F
+TOTAL ECN CLASSES:  120
+Loading Subject:  ECS
+https://webapp4.asu.edu/catalog/classlist?s=ECS&t=2157&e=all&hon=F
+TOTAL ECS CLASSES:  3
+Loading Subject:  ECT
+https://webapp4.asu.edu/catalog/classlist?s=ECT&t=2157&e=all&hon=F
+TOTAL ECT CLASSES:  0
+Loading Subject:  EDA
+https://webapp4.asu.edu/catalog/classlist?s=EDA&t=2157&e=all&hon=F
+TOTAL EDA CLASSES:  11
+Loading Subject:  EDP
+https://webapp4.asu.edu/catalog/classlist?s=EDP&t=2157&e=all&hon=F
+TOTAL EDP CLASSES:  25
+Loading Subject:  EDS
+https://webapp4.asu.edu/catalog/classlist?s=EDS&t=2157&e=all&hon=F
+TOTAL EDS CLASSES:  2
+Loading Subject:  EDT
+https://webapp4.asu.edu/catalog/classlist?s=EDT&t=2157&e=all&hon=F
+TOTAL EDT CLASSES:  52
+Loading Subject:  EED
+https://webapp4.asu.edu/catalog/classlist?s=EED&t=2157&e=all&hon=F
+TOTAL EED CLASSES:  24
+Loading Subject:  EEE
+https://webapp4.asu.edu/catalog/classlist?s=EEE&t=2157&e=all&hon=F
+TOTAL EEE CLASSES:  215
+Loading Subject:  EET
+https://webapp4.asu.edu/catalog/classlist?s=EET&t=2157&e=all&hon=F
+TOTAL EET CLASSES:  8
+Loading Subject:  EGR
+https://webapp4.asu.edu/catalog/classlist?s=EGR&t=2157&e=all&hon=F
+TOTAL EGR CLASSES:  98
+Loading Subject:  ELL
+https://webapp4.asu.edu/catalog/classlist?s=ELL&t=2157&e=all&hon=F
+TOTAL ELL CLASSES:  12
+Loading Subject:  ELS
+https://webapp4.asu.edu/catalog/classlist?s=ELS&t=2157&e=all&hon=F
+TOTAL ELS CLASSES:  5
+Loading Subject:  EMS
+https://webapp4.asu.edu/catalog/classlist?s=EMS&t=2157&e=all&hon=F
+TOTAL EMS CLASSES:  5
+Loading Subject:  ENE
+https://webapp4.asu.edu/catalog/classlist?s=ENE&t=2157&e=all&hon=F
+TOTAL ENE CLASSES:  0
+Loading Subject:  ENG
+https://webapp4.asu.edu/catalog/classlist?s=ENG&t=2157&e=all&hon=F
+TOTAL ENG CLASSES:  719
+ERROR ENG
+Loading Subject:  ENV
+https://webapp4.asu.edu/catalog/classlist?s=ENV&t=2157&e=all&hon=F
+TOTAL ENV CLASSES:  1
+Loading Subject:  EPA
+https://webapp4.asu.edu/catalog/classlist?s=EPA&t=2157&e=all&hon=F
+TOTAL EPA CLASSES:  10
+Loading Subject:  EPD
+https://webapp4.asu.edu/catalog/classlist?s=EPD&t=2157&e=all&hon=F
+TOTAL EPD CLASSES:  5
+Loading Subject:  ERM
+https://webapp4.asu.edu/catalog/classlist?s=ERM&t=2157&e=all&hon=F
+TOTAL ERM CLASSES:  24
+Loading Subject:  ESS
+https://webapp4.asu.edu/catalog/classlist?s=ESS&t=2157&e=all&hon=F
+TOTAL ESS CLASSES:  7
+Loading Subject:  EST
+https://webapp4.asu.edu/catalog/classlist?s=EST&t=2157&e=all&hon=F
+TOTAL EST CLASSES:  15
+Loading Subject:  ETH
+https://webapp4.asu.edu/catalog/classlist?s=ETH&t=2157&e=all&hon=F
+TOTAL ETH CLASSES:  1
+Loading Subject:  EVO
+https://webapp4.asu.edu/catalog/classlist?s=EVO&t=2157&e=all&hon=F
+TOTAL EVO CLASSES:  8
+Loading Subject:  EXW
+https://webapp4.asu.edu/catalog/classlist?s=EXW&t=2157&e=all&hon=F
+TOTAL EXW CLASSES:  146
+Loading Subject:  FAR
+https://webapp4.asu.edu/catalog/classlist?s=FAR&t=2157&e=all&hon=F
+TOTAL FAR CLASSES:  0
+Loading Subject:  FAS
+https://webapp4.asu.edu/catalog/classlist?s=FAS&t=2157&e=all&hon=F
+TOTAL FAS CLASSES:  87
+Loading Subject:  FIN
+https://webapp4.asu.edu/catalog/classlist?s=FIN&t=2157&e=all&hon=F
+TOTAL FIN CLASSES:  63
+Loading Subject:  FLA
+https://webapp4.asu.edu/catalog/classlist?s=FLA&t=2157&e=all&hon=F
+TOTAL FLA CLASSES:  0
+Loading Subject:  FMP
+https://webapp4.asu.edu/catalog/classlist?s=FMP&t=2157&e=all&hon=F
+TOTAL FMP CLASSES:  66
+Loading Subject:  FMS
+https://webapp4.asu.edu/catalog/classlist?s=FMS&t=2157&e=all&hon=F
+TOTAL FMS CLASSES:  31
+Loading Subject:  FOR
+https://webapp4.asu.edu/catalog/classlist?s=FOR&t=2157&e=all&hon=F
+TOTAL FOR CLASSES:  20
+Loading Subject:  FRE
+https://webapp4.asu.edu/catalog/classlist?s=FRE&t=2157&e=all&hon=F
+TOTAL FRE CLASSES:  56
+Loading Subject:  FSE
+https://webapp4.asu.edu/catalog/classlist?s=FSE&t=2157&e=all&hon=F
+TOTAL FSE CLASSES:  131
+Loading Subject:  FYC
+https://webapp4.asu.edu/catalog/classlist?s=FYC&t=2157&e=all&hon=F
+TOTAL FYC CLASSES:  0
+Loading Subject:  GBL
+https://webapp4.asu.edu/catalog/classlist?s=GBL&t=2157&e=all&hon=F
+TOTAL GBL CLASSES:  0
+Loading Subject:  GCU
+https://webapp4.asu.edu/catalog/classlist?s=GCU&t=2157&e=all&hon=F
+TOTAL GCU CLASSES:  63
+Loading Subject:  GER
+https://webapp4.asu.edu/catalog/classlist?s=GER&t=2157&e=all&hon=F
+TOTAL GER CLASSES:  31
+Loading Subject:  GIS
+https://webapp4.asu.edu/catalog/classlist?s=GIS&t=2157&e=all&hon=F
+TOTAL GIS CLASSES:  28
+Loading Subject:  GIT
+https://webapp4.asu.edu/catalog/classlist?s=GIT&t=2157&e=all&hon=F
+TOTAL GIT CLASSES:  52
+Loading Subject:  GLG
+https://webapp4.asu.edu/catalog/classlist?s=GLG&t=2157&e=all&hon=F
+TOTAL GLG CLASSES:  76
+Loading Subject:  GPH
+https://webapp4.asu.edu/catalog/classlist?s=GPH&t=2157&e=all&hon=F
+TOTAL GPH CLASSES:  89
+Loading Subject:  GRA
+https://webapp4.asu.edu/catalog/classlist?s=GRA&t=2157&e=all&hon=F
+TOTAL GRA CLASSES:  49
+Loading Subject:  GRD
+https://webapp4.asu.edu/catalog/classlist?s=GRD&t=2157&e=all&hon=F
+TOTAL GRD CLASSES:  4
+Loading Subject:  GRK
+https://webapp4.asu.edu/catalog/classlist?s=GRK&t=2157&e=all&hon=F
+TOTAL GRK CLASSES:  11
+Loading Subject:  GTD
+https://webapp4.asu.edu/catalog/classlist?s=GTD&t=2157&e=all&hon=F
+TOTAL GTD CLASSES:  11
+Loading Subject:  HCD
+https://webapp4.asu.edu/catalog/classlist?s=HCD&t=2157&e=all&hon=F
+TOTAL HCD CLASSES:  16
+Loading Subject:  HCI
+https://webapp4.asu.edu/catalog/classlist?s=HCI&t=2157&e=all&hon=F
+TOTAL HCI CLASSES:  2
+Loading Subject:  HCR
+https://webapp4.asu.edu/catalog/classlist?s=HCR&t=2157&e=all&hon=F
+TOTAL HCR CLASSES:  49
+Loading Subject:  HDA
+https://webapp4.asu.edu/catalog/classlist?s=HDA&t=2157&e=all&hon=F
+TOTAL HDA CLASSES:  6
+Loading Subject:  HEB
+https://webapp4.asu.edu/catalog/classlist?s=HEB&t=2157&e=all&hon=F
+TOTAL HEB CLASSES:  9
+Loading Subject:  HED
+https://webapp4.asu.edu/catalog/classlist?s=HED&t=2157&e=all&hon=F
+TOTAL HED CLASSES:  21
+Loading Subject:  HES
+https://webapp4.asu.edu/catalog/classlist?s=HES&t=2157&e=all&hon=F
+TOTAL HES CLASSES:  0
+Loading Subject:  HHE
+https://webapp4.asu.edu/catalog/classlist?s=HHE&t=2157&e=all&hon=F
+TOTAL HHE CLASSES:  2
+Loading Subject:  HIN
+https://webapp4.asu.edu/catalog/classlist?s=HIN&t=2157&e=all&hon=F
+TOTAL HIN CLASSES:  1
+Loading Subject:  HON
+https://webapp4.asu.edu/catalog/classlist?s=HON&t=2157&e=all&hon=F
+TOTAL HON CLASSES:  199
+Loading Subject:  HPS
+https://webapp4.asu.edu/catalog/classlist?s=HPS&t=2157&e=all&hon=F
+TOTAL HPS CLASSES:  24
+Loading Subject:  HRC
+https://webapp4.asu.edu/catalog/classlist?s=HRC&t=2157&e=all&hon=F
+TOTAL HRC CLASSES:  2
+Loading Subject:  HSC
+https://webapp4.asu.edu/catalog/classlist?s=HSC&t=2157&e=all&hon=F
+TOTAL HSC CLASSES:  38
+Loading Subject:  HSD
+https://webapp4.asu.edu/catalog/classlist?s=HSD&t=2157&e=all&hon=F
+TOTAL HSD CLASSES:  23
+Loading Subject:  HSM
+https://webapp4.asu.edu/catalog/classlist?s=HSM&t=2157&e=all&hon=F
+TOTAL HSM CLASSES:  1
+Loading Subject:  HST
+https://webapp4.asu.edu/catalog/classlist?s=HST&t=2157&e=all&hon=F
+TOTAL HST CLASSES:  128
+Loading Subject:  HTY
+https://webapp4.asu.edu/catalog/classlist?s=HTY&t=2157&e=all&hon=F
+TOTAL HTY CLASSES:  0
+Loading Subject:  HUD
+https://webapp4.asu.edu/catalog/classlist?s=HUD&t=2157&e=all&hon=F
+TOTAL HUD CLASSES:  0
+Loading Subject:  HUM
+https://webapp4.asu.edu/catalog/classlist?s=HUM&t=2157&e=all&hon=F
+TOTAL HUM CLASSES:  0
+Loading Subject:  IAP
+https://webapp4.asu.edu/catalog/classlist?s=IAP&t=2157&e=all&hon=F
+TOTAL IAP CLASSES:  26
+Loading Subject:  IAS
+https://webapp4.asu.edu/catalog/classlist?s=IAS&t=2157&e=all&hon=F
+TOTAL IAS CLASSES:  33
+Loading Subject:  IBC
+https://webapp4.asu.edu/catalog/classlist?s=IBC&t=2157&e=all&hon=F
+TOTAL IBC CLASSES:  0
+Loading Subject:  IDN
+https://webapp4.asu.edu/catalog/classlist?s=IDN&t=2157&e=all&hon=F
+TOTAL IDN CLASSES:  5
+Loading Subject:  IED
+https://webapp4.asu.edu/catalog/classlist?s=IED&t=2157&e=all&hon=F
+TOTAL IED CLASSES:  3
+Loading Subject:  IEE
+https://webapp4.asu.edu/catalog/classlist?s=IEE&t=2157&e=all&hon=F
+TOTAL IEE CLASSES:  47
+Loading Subject:  IFT
+https://webapp4.asu.edu/catalog/classlist?s=IFT&t=2157&e=all&hon=F
+TOTAL IFT CLASSES:  20
+Loading Subject:  IMD
+https://webapp4.asu.edu/catalog/classlist?s=IMD&t=2157&e=all&hon=F
+TOTAL IMD CLASSES:  0
+Loading Subject:  IND
+https://webapp4.asu.edu/catalog/classlist?s=IND&t=2157&e=all&hon=F
+TOTAL IND CLASSES:  42
+Loading Subject:  INT
+https://webapp4.asu.edu/catalog/classlist?s=INT&t=2157&e=all&hon=F
+TOTAL INT CLASSES:  41
+Loading Subject:  ITA
+https://webapp4.asu.edu/catalog/classlist?s=ITA&t=2157&e=all&hon=F
+TOTAL ITA CLASSES:  29
+Loading Subject:  JAC
+https://webapp4.asu.edu/catalog/classlist?s=JAC&t=2157&e=all&hon=F
+TOTAL JAC CLASSES:  0
+Loading Subject:  JHR
+https://webapp4.asu.edu/catalog/classlist?s=JHR&t=2157&e=all&hon=F
+TOTAL JHR CLASSES:  13
+Loading Subject:  JMC
+https://webapp4.asu.edu/catalog/classlist?s=JMC&t=2157&e=all&hon=F
+TOTAL JMC CLASSES:  114
+Loading Subject:  JPN
+https://webapp4.asu.edu/catalog/classlist?s=JPN&t=2157&e=all&hon=F
+TOTAL JPN CLASSES:  27
+Loading Subject:  JST
+https://webapp4.asu.edu/catalog/classlist?s=JST&t=2157&e=all&hon=F
+TOTAL JST CLASSES:  5
+Loading Subject:  JUS
+https://webapp4.asu.edu/catalog/classlist?s=JUS&t=2157&e=all&hon=F
+TOTAL JUS CLASSES:  80
+Loading Subject:  KIN
+https://webapp4.asu.edu/catalog/classlist?s=KIN&t=2157&e=all&hon=F
+TOTAL KIN CLASSES:  31
+Loading Subject:  KOR
+https://webapp4.asu.edu/catalog/classlist?s=KOR&t=2157&e=all&hon=F
+TOTAL KOR CLASSES:  15
+Loading Subject:  LAA
+https://webapp4.asu.edu/catalog/classlist?s=LAA&t=2157&e=all&hon=F
+TOTAL LAA CLASSES:  0
+Loading Subject:  LAP
+https://webapp4.asu.edu/catalog/classlist?s=LAP&t=2157&e=all&hon=F
+TOTAL LAP CLASSES:  2
+Loading Subject:  LAS
+https://webapp4.asu.edu/catalog/classlist?s=LAS&t=2157&e=all&hon=F
+TOTAL LAS CLASSES:  2
+Loading Subject:  LAT
+https://webapp4.asu.edu/catalog/classlist?s=LAT&t=2157&e=all&hon=F
+TOTAL LAT CLASSES:  14
+Loading Subject:  LAW
+https://webapp4.asu.edu/catalog/classlist?s=LAW&t=2157&e=all&hon=F
+TOTAL LAW CLASSES:  137
+Loading Subject:  LDE
+https://webapp4.asu.edu/catalog/classlist?s=LDE&t=2157&e=all&hon=F
+TOTAL LDE CLASSES:  11
+Loading Subject:  LES
+https://webapp4.asu.edu/catalog/classlist?s=LES&t=2157&e=all&hon=F
+TOTAL LES CLASSES:  11
+Loading Subject:  LIA
+https://webapp4.asu.edu/catalog/classlist?s=LIA&t=2157&e=all&hon=F
+TOTAL LIA CLASSES:  5
+Loading Subject:  LIN
+https://webapp4.asu.edu/catalog/classlist?s=LIN&t=2157&e=all&hon=F
+TOTAL LIN CLASSES:  18
+Loading Subject:  LIS
+https://webapp4.asu.edu/catalog/classlist?s=LIS&t=2157&e=all&hon=F
+TOTAL LIS CLASSES:  0
+Loading Subject:  LNP
+https://webapp4.asu.edu/catalog/classlist?s=LNP&t=2157&e=all&hon=F
+TOTAL LNP CLASSES:  1
+Loading Subject:  LPH
+https://webapp4.asu.edu/catalog/classlist?s=LPH&t=2157&e=all&hon=F
+TOTAL LPH CLASSES:  3
+Loading Subject:  LSC
+https://webapp4.asu.edu/catalog/classlist?s=LSC&t=2157&e=all&hon=F
+TOTAL LSC CLASSES:  24
+Loading Subject:  LSE
+https://webapp4.asu.edu/catalog/classlist?s=LSE&t=2157&e=all&hon=F
+TOTAL LSE CLASSES:  1
+Loading Subject:  LTC
+https://webapp4.asu.edu/catalog/classlist?s=LTC&t=2157&e=all&hon=F
+TOTAL LTC CLASSES:  4
+Loading Subject:  MAE
+https://webapp4.asu.edu/catalog/classlist?s=MAE&t=2157&e=all&hon=F
+TOTAL MAE CLASSES:  129
+Loading Subject:  MAK
+https://webapp4.asu.edu/catalog/classlist?s=MAK&t=2157&e=all&hon=F
+TOTAL MAK CLASSES:  0
+Loading Subject:  MAS
+https://webapp4.asu.edu/catalog/classlist?s=MAS&t=2157&e=all&hon=F
+TOTAL MAS CLASSES:  20
+Loading Subject:  MAT
+https://webapp4.asu.edu/catalog/classlist?s=MAT&t=2157&e=all&hon=F
+TOTAL MAT CLASSES:  480
+Loading Subject:  MBB
+https://webapp4.asu.edu/catalog/classlist?s=MBB&t=2157&e=all&hon=F
+TOTAL MBB CLASSES:  18
+Loading Subject:  MCB
+https://webapp4.asu.edu/catalog/classlist?s=MCB&t=2157&e=all&hon=F
+TOTAL MCB CLASSES:  24
+Loading Subject:  MCE
+https://webapp4.asu.edu/catalog/classlist?s=MCE&t=2157&e=all&hon=F
+TOTAL MCE CLASSES:  0
+Loading Subject:  MCO
+https://webapp4.asu.edu/catalog/classlist?s=MCO&t=2157&e=all&hon=F
+TOTAL MCO CLASSES:  74
+Loading Subject:  MDC
+https://webapp4.asu.edu/catalog/classlist?s=MDC&t=2157&e=all&hon=F
+TOTAL MDC CLASSES:  1
+Loading Subject:  MDL
+https://webapp4.asu.edu/catalog/classlist?s=MDL&t=2157&e=all&hon=F
+TOTAL MDL CLASSES:  2
+Loading Subject:  MED
+https://webapp4.asu.edu/catalog/classlist?s=MED&t=2157&e=all&hon=F
+TOTAL MED CLASSES:  2
+Loading Subject:  MEE
+https://webapp4.asu.edu/catalog/classlist?s=MEE&t=2157&e=all&hon=F
+TOTAL MEE CLASSES:  39
+Loading Subject:  MET
+https://webapp4.asu.edu/catalog/classlist?s=MET&t=2157&e=all&hon=F
+TOTAL MET CLASSES:  44
+Loading Subject:  MFG
+https://webapp4.asu.edu/catalog/classlist?s=MFG&t=2157&e=all&hon=F
+TOTAL MFG CLASSES:  0
+Loading Subject:  MGT
+https://webapp4.asu.edu/catalog/classlist?s=MGT&t=2157&e=all&hon=F
+TOTAL MGT CLASSES:  98
+Loading Subject:  MHI
+https://webapp4.asu.edu/catalog/classlist?s=MHI&t=2157&e=all&hon=F
+TOTAL MHI CLASSES:  0
+Loading Subject:  MHL
+https://webapp4.asu.edu/catalog/classlist?s=MHL&t=2157&e=all&hon=F
+TOTAL MHL CLASSES:  20
+Loading Subject:  MIC
+https://webapp4.asu.edu/catalog/classlist?s=MIC&t=2157&e=all&hon=F
+TOTAL MIC CLASSES:  76
+Loading Subject:  MIS
+https://webapp4.asu.edu/catalog/classlist?s=MIS&t=2157&e=all&hon=F
+TOTAL MIS CLASSES:  12
+Loading Subject:  MKT
+https://webapp4.asu.edu/catalog/classlist?s=MKT&t=2157&e=all&hon=F
+TOTAL MKT CLASSES:  71
+Loading Subject:  MLS
+https://webapp4.asu.edu/catalog/classlist?s=MLS&t=2157&e=all&hon=F
+TOTAL MLS CLASSES:  17
+Loading Subject:  MPH
+https://webapp4.asu.edu/catalog/classlist?s=MPH&t=2157&e=all&hon=F
+TOTAL MPH CLASSES:  0
+Loading Subject:  MSC
+https://webapp4.asu.edu/catalog/classlist?s=MSC&t=2157&e=all&hon=F
+TOTAL MSC CLASSES:  0
+Loading Subject:  MSE
+https://webapp4.asu.edu/catalog/classlist?s=MSE&t=2157&e=all&hon=F
+TOTAL MSE CLASSES:  57
+Loading Subject:  MSI
+https://webapp4.asu.edu/catalog/classlist?s=MSI&t=2157&e=all&hon=F
+TOTAL MSI CLASSES:  1
+Loading Subject:  MTC
+https://webapp4.asu.edu/catalog/classlist?s=MTC&t=2157&e=all&hon=F
+TOTAL MTC CLASSES:  35
+Loading Subject:  MTE
+https://webapp4.asu.edu/catalog/classlist?s=MTE&t=2157&e=all&hon=F
+TOTAL MTE CLASSES:  26
+Loading Subject:  MUD
+https://webapp4.asu.edu/catalog/classlist?s=MUD&t=2157&e=all&hon=F
+TOTAL MUD CLASSES:  6
+Loading Subject:  MUE
+https://webapp4.asu.edu/catalog/classlist?s=MUE&t=2157&e=all&hon=F
+TOTAL MUE CLASSES:  63
+Loading Subject:  MUP
+https://webapp4.asu.edu/catalog/classlist?s=MUP&t=2157&e=all&hon=F
+TOTAL MUP CLASSES:  551
+Loading Subject:  MUS
+https://webapp4.asu.edu/catalog/classlist?s=MUS&t=2157&e=all&hon=F
+TOTAL MUS CLASSES:  60
+Loading Subject:  NAN
+https://webapp4.asu.edu/catalog/classlist?s=NAN&t=2157&e=all&hon=F
+TOTAL NAN CLASSES:  8
+Loading Subject:  NAV
+https://webapp4.asu.edu/catalog/classlist?s=NAV&t=2157&e=all&hon=F
+TOTAL NAV CLASSES:  13
+Loading Subject:  NEU
+https://webapp4.asu.edu/catalog/classlist?s=NEU&t=2157&e=all&hon=F
+TOTAL NEU CLASSES:  12
+Loading Subject:  NEW
+https://webapp4.asu.edu/catalog/classlist?s=NEW&t=2157&e=all&hon=F
+TOTAL NEW CLASSES:  0
+Loading Subject:  NLM
+https://webapp4.asu.edu/catalog/classlist?s=NLM&t=2157&e=all&hon=F
+TOTAL NLM CLASSES:  36
+Loading Subject:  NTR
+https://webapp4.asu.edu/catalog/classlist?s=NTR&t=2157&e=all&hon=F
+TOTAL NTR CLASSES:  107
+Loading Subject:  NUR
+https://webapp4.asu.edu/catalog/classlist?s=NUR&t=2157&e=all&hon=F
+TOTAL NUR CLASSES:  182
+Loading Subject:  OBS
+https://webapp4.asu.edu/catalog/classlist?s=OBS&t=2157&e=all&hon=F
+TOTAL OBS CLASSES:  2
+Loading Subject:  OGL
+https://webapp4.asu.edu/catalog/classlist?s=OGL&t=2157&e=all&hon=F
+TOTAL OGL CLASSES:  7
+Loading Subject:  OMT
+https://webapp4.asu.edu/catalog/classlist?s=OMT&t=2157&e=all&hon=F
+TOTAL OMT CLASSES:  10
+Loading Subject:  OPM
+https://webapp4.asu.edu/catalog/classlist?s=OPM&t=2157&e=all&hon=F
+TOTAL OPM CLASSES:  0
+Loading Subject:  PAF
+https://webapp4.asu.edu/catalog/classlist?s=PAF&t=2157&e=all&hon=F
+TOTAL PAF CLASSES:  71
+Loading Subject:  PBH
+https://webapp4.asu.edu/catalog/classlist?s=PBH&t=2157&e=all&hon=F
+TOTAL PBH CLASSES:  4
+Loading Subject:  PGM
+https://webapp4.asu.edu/catalog/classlist?s=PGM&t=2157&e=all&hon=F
+TOTAL PGM CLASSES:  0
+Loading Subject:  PGV
+https://webapp4.asu.edu/catalog/classlist?s=PGV&t=2157&e=all&hon=F
+TOTAL PGV CLASSES:  0
+Loading Subject:  PHI
+https://webapp4.asu.edu/catalog/classlist?s=PHI&t=2157&e=all&hon=F
+TOTAL PHI CLASSES:  76
+Loading Subject:  PHL
+https://webapp4.asu.edu/catalog/classlist?s=PHL&t=2157&e=all&hon=F
+TOTAL PHL CLASSES:  0
+Loading Subject:  PHS
+https://webapp4.asu.edu/catalog/classlist?s=PHS&t=2157&e=all&hon=F
+TOTAL PHS CLASSES:  9
+Loading Subject:  PHY
+https://webapp4.asu.edu/catalog/classlist?s=PHY&t=2157&e=all&hon=F
+TOTAL PHY CLASSES:  352
+Loading Subject:  PLA
+https://webapp4.asu.edu/catalog/classlist?s=PLA&t=2157&e=all&hon=F
+TOTAL PLA CLASSES:  0
+Loading Subject:  PLB
+https://webapp4.asu.edu/catalog/classlist?s=PLB&t=2157&e=all&hon=F
+TOTAL PLB CLASSES:  28
+Loading Subject:  PLC
+https://webapp4.asu.edu/catalog/classlist?s=PLC&t=2157&e=all&hon=F
+TOTAL PLC CLASSES:  4
+Loading Subject:  POR
+https://webapp4.asu.edu/catalog/classlist?s=POR&t=2157&e=all&hon=F
+TOTAL POR CLASSES:  12
+Loading Subject:  POS
+https://webapp4.asu.edu/catalog/classlist?s=POS&t=2157&e=all&hon=F
+TOTAL POS CLASSES:  115
+ERROR POS
+Loading Subject:  PPE
+https://webapp4.asu.edu/catalog/classlist?s=PPE&t=2157&e=all&hon=F
+TOTAL PPE CLASSES:  111
+Loading Subject:  PRM
+https://webapp4.asu.edu/catalog/classlist?s=PRM&t=2157&e=all&hon=F
+TOTAL PRM CLASSES:  32
+Loading Subject:  PSB
+https://webapp4.asu.edu/catalog/classlist?s=PSB&t=2157&e=all&hon=F
+TOTAL PSB CLASSES:  4
+Loading Subject:  PSY
+https://webapp4.asu.edu/catalog/classlist?s=PSY&t=2157&e=all&hon=F
+TOTAL PSY CLASSES:  310
+Loading Subject:  PUB
+https://webapp4.asu.edu/catalog/classlist?s=PUB&t=2157&e=all&hon=F
+TOTAL PUB CLASSES:  0
+Loading Subject:  PUP
+https://webapp4.asu.edu/catalog/classlist?s=PUP&t=2157&e=all&hon=F
+TOTAL PUP CLASSES:  64
+Loading Subject:  QBA
+https://webapp4.asu.edu/catalog/classlist?s=QBA&t=2157&e=all&hon=F
+TOTAL QBA CLASSES:  0
+Loading Subject:  RDG
+https://webapp4.asu.edu/catalog/classlist?s=RDG&t=2157&e=all&hon=F
+TOTAL RDG CLASSES:  24
+Loading Subject:  REA
+https://webapp4.asu.edu/catalog/classlist?s=REA&t=2157&e=all&hon=F
+TOTAL REA CLASSES:  7
+Loading Subject:  RED
+https://webapp4.asu.edu/catalog/classlist?s=RED&t=2157&e=all&hon=F
+TOTAL RED CLASSES:  9
+Loading Subject:  REL
+https://webapp4.asu.edu/catalog/classlist?s=REL&t=2157&e=all&hon=F
+TOTAL REL CLASSES:  81
+Loading Subject:  ROM
+https://webapp4.asu.edu/catalog/classlist?s=ROM&t=2157&e=all&hon=F
+TOTAL ROM CLASSES:  17
+Loading Subject:  RTM
+https://webapp4.asu.edu/catalog/classlist?s=RTM&t=2157&e=all&hon=F
+TOTAL RTM CLASSES:  0
+Loading Subject:  RUS
+https://webapp4.asu.edu/catalog/classlist?s=RUS&t=2157&e=all&hon=F
+TOTAL RUS CLASSES:  16
+Loading Subject:  SAO
+https://webapp4.asu.edu/catalog/classlist?s=SAO&t=2157&e=all&hon=F
+TOTAL SAO CLASSES:  0
+Loading Subject:  SBS
+https://webapp4.asu.edu/catalog/classlist?s=SBS&t=2157&e=all&hon=F
+TOTAL SBS CLASSES:  18
+Loading Subject:  SCM
+https://webapp4.asu.edu/catalog/classlist?s=SCM&t=2157&e=all&hon=F
+TOTAL SCM CLASSES:  79
+Loading Subject:  SCN
+https://webapp4.asu.edu/catalog/classlist?s=SCN&t=2157&e=all&hon=F
+TOTAL SCN CLASSES:  7
+Loading Subject:  SEC
+https://webapp4.asu.edu/catalog/classlist?s=SEC&t=2157&e=all&hon=F
+TOTAL SEC CLASSES:  6
+Loading Subject:  SED
+https://webapp4.asu.edu/catalog/classlist?s=SED&t=2157&e=all&hon=F
+TOTAL SED CLASSES:  37
+Loading Subject:  SEM
+https://webapp4.asu.edu/catalog/classlist?s=SEM&t=2157&e=all&hon=F
+TOTAL SEM CLASSES:  1
+Loading Subject:  SER
+https://webapp4.asu.edu/catalog/classlist?s=SER&t=2157&e=all&hon=F
+TOTAL SER CLASSES:  21
+Loading Subject:  SES
+https://webapp4.asu.edu/catalog/classlist?s=SES&t=2157&e=all&hon=F
+TOTAL SES CLASSES:  25
+Loading Subject:  SET
+https://webapp4.asu.edu/catalog/classlist?s=SET&t=2157&e=all&hon=F
+TOTAL SET CLASSES:  0
+Loading Subject:  SGS
+https://webapp4.asu.edu/catalog/classlist?s=SGS&t=2157&e=all&hon=F
+TOTAL SGS CLASSES:  30
+Loading Subject:  SHS
+https://webapp4.asu.edu/catalog/classlist?s=SHS&t=2157&e=all&hon=F
+TOTAL SHS CLASSES:  99
+Loading Subject:  SLB
+https://webapp4.asu.edu/catalog/classlist?s=SLB&t=2157&e=all&hon=F
+TOTAL SLB CLASSES:  0
+Loading Subject:  SLC
+https://webapp4.asu.edu/catalog/classlist?s=SLC&t=2157&e=all&hon=F
+TOTAL SLC CLASSES:  54
+Loading Subject:  SLV
+https://webapp4.asu.edu/catalog/classlist?s=SLV&t=2157&e=all&hon=F
+TOTAL SLV CLASSES:  7
+Loading Subject:  SMC
+https://webapp4.asu.edu/catalog/classlist?s=SMC&t=2157&e=all&hon=F
+TOTAL SMC CLASSES:  3
+Loading Subject:  SOC
+https://webapp4.asu.edu/catalog/classlist?s=SOC&t=2157&e=all&hon=F
+TOTAL SOC CLASSES:  108
+Loading Subject:  SOS
+https://webapp4.asu.edu/catalog/classlist?s=SOS&t=2157&e=all&hon=F
+TOTAL SOS CLASSES:  131
+Loading Subject:  SPA
+https://webapp4.asu.edu/catalog/classlist?s=SPA&t=2157&e=all&hon=F
+TOTAL SPA CLASSES:  176
+Loading Subject:  SPE
+https://webapp4.asu.edu/catalog/classlist?s=SPE&t=2157&e=all&hon=F
+TOTAL SPE CLASSES:  56
+Loading Subject:  SPF
+https://webapp4.asu.edu/catalog/classlist?s=SPF&t=2157&e=all&hon=F
+TOTAL SPF CLASSES:  4
+Loading Subject:  SSH
+https://webapp4.asu.edu/catalog/classlist?s=SSH&t=2157&e=all&hon=F
+TOTAL SSH CLASSES:  10
+Loading Subject:  SST
+https://webapp4.asu.edu/catalog/classlist?s=SST&t=2157&e=all&hon=F
+TOTAL SST CLASSES:  14
+Loading Subject:  STC
+https://webapp4.asu.edu/catalog/classlist?s=STC&t=2157&e=all&hon=F
+TOTAL STC CLASSES:  2
+Loading Subject:  STM
+https://webapp4.asu.edu/catalog/classlist?s=STM&t=2157&e=all&hon=F
+TOTAL STM CLASSES:  0
+Loading Subject:  STP
+https://webapp4.asu.edu/catalog/classlist?s=STP&t=2157&e=all&hon=F
+TOTAL STP CLASSES:  57
+Loading Subject:  STS
+https://webapp4.asu.edu/catalog/classlist?s=STS&t=2157&e=all&hon=F
+TOTAL STS CLASSES:  25
+Loading Subject:  SWE
+https://webapp4.asu.edu/catalog/classlist?s=SWE&t=2157&e=all&hon=F
+TOTAL SWE CLASSES:  0
+Loading Subject:  SWG
+https://webapp4.asu.edu/catalog/classlist?s=SWG&t=2157&e=all&hon=F
+TOTAL SWG CLASSES:  143
+ERROR SWG
+Loading Subject:  SWU
+https://webapp4.asu.edu/catalog/classlist?s=SWU&t=2157&e=all&hon=F
+TOTAL SWU CLASSES:  100
+Loading Subject:  TBX
+https://webapp4.asu.edu/catalog/classlist?s=TBX&t=2157&e=all&hon=F
+TOTAL TBX CLASSES:  0
+Loading Subject:  TCL
+https://webapp4.asu.edu/catalog/classlist?s=TCL&t=2157&e=all&hon=F
+TOTAL TCL CLASSES:  30
+Loading Subject:  TDM
+https://webapp4.asu.edu/catalog/classlist?s=TDM&t=2157&e=all&hon=F
+TOTAL TDM CLASSES:  29
+Loading Subject:  TEL
+https://webapp4.asu.edu/catalog/classlist?s=TEL&t=2157&e=all&hon=F
+TOTAL TEL CLASSES:  52
+Loading Subject:  TEM
+https://webapp4.asu.edu/catalog/classlist?s=TEM&t=2157&e=all&hon=F
+TOTAL TEM CLASSES:  14
+Loading Subject:  TGM
+https://webapp4.asu.edu/catalog/classlist?s=TGM&t=2157&e=all&hon=F
+TOTAL TGM CLASSES:  0
+Loading Subject:  THA
+https://webapp4.asu.edu/catalog/classlist?s=THA&t=2157&e=all&hon=F
+TOTAL THA CLASSES:  0
+Loading Subject:  THE
+https://webapp4.asu.edu/catalog/classlist?s=THE&t=2157&e=all&hon=F
+TOTAL THE CLASSES:  47
+Loading Subject:  THF
+https://webapp4.asu.edu/catalog/classlist?s=THF&t=2157&e=all&hon=F
+TOTAL THF CLASSES:  84
+Loading Subject:  THP
+https://webapp4.asu.edu/catalog/classlist?s=THP&t=2157&e=all&hon=F
+TOTAL THP CLASSES:  0
+Loading Subject:  TMC
+https://webapp4.asu.edu/catalog/classlist?s=TMC&t=2157&e=all&hon=F
+TOTAL TMC CLASSES:  19
+Loading Subject:  TSS
+https://webapp4.asu.edu/catalog/classlist?s=TSS&t=2157&e=all&hon=F
+TOTAL TSS CLASSES:  0
+Loading Subject:  TWC
+https://webapp4.asu.edu/catalog/classlist?s=TWC&t=2157&e=all&hon=F
+TOTAL TWC CLASSES:  62
+Loading Subject:  UET
+https://webapp4.asu.edu/catalog/classlist?s=UET&t=2157&e=all&hon=F
+TOTAL UET CLASSES:  1
+Loading Subject:  UNI
+https://webapp4.asu.edu/catalog/classlist?s=UNI&t=2157&e=all&hon=F
+TOTAL UNI CLASSES:  116
+Loading Subject:  URB
+https://webapp4.asu.edu/catalog/classlist?s=URB&t=2157&e=all&hon=F
+TOTAL URB CLASSES:  6
+Loading Subject:  USL
+https://webapp4.asu.edu/catalog/classlist?s=USL&t=2157&e=all&hon=F
+TOTAL USL CLASSES:  22
+Loading Subject:  VTN
+https://webapp4.asu.edu/catalog/classlist?s=VTN&t=2157&e=all&hon=F
+TOTAL VTN CLASSES:  4
+Loading Subject:  WAC
+https://webapp4.asu.edu/catalog/classlist?s=WAC&t=2157&e=all&hon=F
+TOTAL WAC CLASSES:  91
+Loading Subject:  WPC
+https://webapp4.asu.edu/catalog/classlist?s=WPC&t=2157&e=all&hon=F
+TOTAL WPC CLASSES:  49
+Loading Subject:  WST
+https://webapp4.asu.edu/catalog/classlist?s=WST&t=2157&e=all&hon=F
+TOTAL WST CLASSES:  52
+Loading Subject:  YDL
+https://webapp4.asu.edu/catalog/classlist?s=YDL&t=2157&e=all&hon=F
+TOTAL YDL CLASSES:  0
+Done
+Sun Apr 12 03:03:19 MST 2015

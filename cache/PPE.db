@@ -1,0 +1,1652 @@
+(lp0
+(lp1
+S'PPE215'
+p2
+aI74468
+aI27
+aI30
+aS'M W'
+p3
+aS'10:30 AM'
+p4
+aI10
+aI30
+aI11
+aI30
+aNaNaNaNaNaNaNaS'Not Reserved'
+p5
+aa(lp6
+S'PPE230'
+p7
+aI77295
+aI28
+aI30
+aS'T Th'
+p8
+aS'10:30 AM'
+p9
+aI10
+aI30
+aI11
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp10
+S'PPE240'
+p11
+aI89253
+aI1
+aI25
+aS'W'
+p12
+aS' 1:30 PM'
+p13
+aI13
+aI30
+aI15
+aI10
+aNaNaNaNaNaNaNag5
+aa(lp14
+S'PPE240'
+p15
+aI89263
+aI14
+aI20
+aS'Th'
+p16
+aS'10:30 AM'
+p17
+aI10
+aI30
+aI12
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp18
+S'PPE240'
+p19
+aI89269
+aI27
+aI30
+aS'T Th'
+p20
+aS'12:00 PM'
+p21
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp22
+S'PPE240'
+p23
+aI89371
+aI21
+aI25
+aS'M W'
+p24
+aS' 7:00 PM'
+p25
+aI19
+aI0
+aI19
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp26
+S'PPE240'
+p27
+aI89373
+aI21
+aI25
+aS'M W'
+p28
+aS' 6:00 PM'
+p29
+aI18
+aI0
+aI18
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp30
+S'PPE240'
+p31
+aI89376
+aI5
+aI9
+aS'T Th'
+p32
+aS'12:00 PM'
+p33
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp34
+S'PPE240'
+p35
+aI89381
+aI19
+aI25
+aS'T Th'
+p36
+aS' 9:00 AM'
+p37
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp38
+S'PPE240'
+p39
+aI90365
+aI26
+aI30
+aS'T Th'
+p40
+aS' 3:00 PM'
+p41
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp42
+S'PPE240'
+p43
+aI89386
+aI27
+aI30
+aS'T Th'
+p44
+aS' 8:00 AM'
+p45
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp46
+S'PPE240'
+p47
+aI89390
+aI21
+aI30
+aS'M W'
+p48
+aS' 1:30 PM'
+p49
+aI13
+aI30
+aI14
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp50
+S'PPE240'
+p51
+aI90366
+aI27
+aI30
+aS'T Th'
+p52
+aS' 4:30 PM'
+p53
+aI16
+aI30
+aI17
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp54
+S'PPE240'
+p55
+aI89478
+aI9
+aI15
+aS'T Th'
+p56
+aS'10:00 AM'
+p57
+aI10
+aI0
+aI10
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp58
+S'PPE240'
+p59
+aI89479
+aI7
+aI30
+aS'T Th'
+p60
+aS'10:00 AM'
+p61
+aI10
+aI0
+aI10
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp62
+S'PPE240'
+p63
+aI89481
+aI20
+aI30
+aS'M W'
+p64
+aS' 9:00 AM'
+p65
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp66
+S'PPE240'
+p67
+aI89482
+aI0
+aI30
+aS'T Th'
+p68
+aS'10:30 AM'
+p69
+aI10
+aI30
+aI11
+aI20
+aNaNaNaNaNaNaNaS'Reserved'
+p70
+aa(lp71
+S'PPE240'
+p72
+aI89484
+aI13
+aI30
+aS'T Th'
+p73
+aS' 8:00 AM'
+p74
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp75
+S'PPE240'
+p76
+aI89486
+aI1
+aI30
+aS'M W'
+p77
+aS'10:00 AM'
+p78
+aI10
+aI0
+aI10
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp79
+S'PPE240'
+p80
+aI89488
+aI0
+aI30
+aS'M W'
+p81
+aS' 3:00 PM'
+p82
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag70
+aa(lp83
+S'PPE240'
+p84
+aI89490
+aI21
+aI30
+aS'T Th'
+p85
+aS'11:00 AM'
+p86
+aI11
+aI0
+aI11
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp87
+S'PPE240'
+p88
+aI89492
+aI11
+aI30
+aS'M W'
+p89
+aS'12:00 PM'
+p90
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp91
+S'PPE240'
+p92
+aI89497
+aI27
+aI30
+aS'M W'
+p93
+aS' 1:30 PM'
+p94
+aI13
+aI30
+aI14
+aI45
+aNaNaNaNaNaNaNag5
+aa(lp95
+S'PPE240'
+p96
+aI89505
+aI12
+aI25
+aS'T Th'
+p97
+aS' 8:00 AM'
+p98
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp99
+S'PPE240'
+p100
+aI89507
+aI6
+aI30
+aS'T Th'
+p101
+aS' 9:00 AM'
+p102
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp103
+S'PPE240'
+p104
+aI89511
+aI24
+aI30
+aS'M W'
+p105
+aS' 9:00 AM'
+p106
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp107
+S'PPE240'
+p108
+aI89517
+aI17
+aI25
+aS'M W'
+p109
+aS' 3:00 PM'
+p110
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp111
+S'PPE240'
+p112
+aI89537
+aI15
+aI20
+ag12
+aS' 9:00 AM'
+p113
+aI9
+aI0
+aI10
+aI40
+aNaNaNaNaNaNaNag5
+aa(lp114
+S'PPE240'
+p115
+aI89542
+aI20
+aI20
+aS'F'
+p116
+aS' 9:00 AM'
+p117
+aI9
+aI0
+aI10
+aI40
+aNaNaNaNaNaNaNag5
+aa(lp118
+S'PPE240'
+p119
+aI89545
+aI15
+aI24
+aS'T Th'
+p120
+aS' 6:00 PM'
+p121
+aI18
+aI0
+aI18
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp122
+S'PPE240'
+p123
+aI89551
+aI20
+aI30
+aS'T Th'
+p124
+aS'11:00 AM'
+p125
+aI11
+aI0
+aI11
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp126
+S'PPE240'
+p127
+aI89567
+aI10
+aI30
+aS'T Th'
+p128
+aS'10:00 AM'
+p129
+aI10
+aI0
+aI10
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp130
+S'PPE240'
+p131
+aI89568
+aI19
+aI30
+aS'T Th'
+p132
+aS'11:00 AM'
+p133
+aI11
+aI0
+aI11
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp134
+S'PPE240'
+p135
+aI89572
+aI0
+aI24
+aS'T Th'
+p136
+aS' 3:00 PM'
+p137
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag70
+aa(lp138
+S'PPE240'
+p139
+aI89583
+aI15
+aI30
+aS'T Th'
+p140
+aS' 8:00 AM'
+p141
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp142
+S'PPE240'
+p143
+aI89588
+aI11
+aI30
+aS'T Th'
+p144
+aS' 9:00 AM'
+p145
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp146
+S'PPE240'
+p147
+aI89601
+aI26
+aI30
+aS'M W'
+p148
+aS'12:00 PM'
+p149
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp150
+S'PPE240'
+p151
+aI89605
+aI0
+aI30
+aS'T Th'
+p152
+aS' 8:00 AM'
+p153
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag70
+aa(lp154
+S'PPE240'
+p155
+aI89633
+aI22
+aI25
+aS'T Th'
+p156
+aS' 8:00 AM'
+p157
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp158
+S'PPE240'
+p159
+aI89652
+aI0
+aI24
+aS'T Th'
+p160
+aS' 5:00 PM'
+p161
+aI17
+aI0
+aI17
+aI50
+aNaNaNaNaNaNaNag70
+aa(lp162
+S'PPE240'
+p163
+aI89665
+aI17
+aI30
+aS'M W'
+p164
+aS' 3:00 PM'
+p165
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp166
+S'PPE240'
+p167
+aI90375
+aI26
+aI30
+aS'M W'
+p168
+aS' 3:30 PM'
+p169
+aI15
+aI30
+aI16
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp170
+S'PPE240'
+p171
+aI90390
+aI24
+aI30
+aS'M W'
+p172
+aS' 9:00 AM'
+p173
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp174
+S'PPE240'
+p175
+aI90398
+aI25
+aI30
+aS'T Th'
+p176
+aS' 3:00 PM'
+p177
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp178
+S'PPE240'
+p179
+aI90401
+aI13
+aI30
+aS'T Th'
+p180
+aS' 3:00 PM'
+p181
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp182
+S'PPE240'
+p183
+aI90404
+aI20
+aI30
+aS'M W'
+p184
+aS' 3:00 PM'
+p185
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp186
+S'PPE240'
+p187
+aI90405
+aI26
+aI30
+aS'T Th'
+p188
+aS' 4:30 PM'
+p189
+aI16
+aI30
+aI17
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp190
+S'PPE240'
+p191
+aI90408
+aI28
+aI30
+aS'T Th'
+p192
+aS' 5:15 PM'
+p193
+aI17
+aI15
+aI18
+aI5
+aNaNaNaNaNaNaNag5
+aa(lp194
+S'PPE240'
+p195
+aI89256
+aI21
+aI25
+ag12
+aS' 3:15 PM'
+p196
+aI15
+aI15
+aI16
+aI55
+aNaNaNaNaNaNaNag5
+aa(lp197
+S'PPE240'
+p198
+aI89260
+aI23
+aI25
+ag12
+aS' 1:30 PM'
+p199
+aI13
+aI30
+aI15
+aI10
+aNaNaNaNaNaNaNag5
+aa(lp200
+S'PPE240'
+p201
+aI89267
+aI17
+aI20
+aS'Th'
+p202
+aS'10:30 AM'
+p203
+aI10
+aI30
+aI12
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp204
+S'PPE240'
+p205
+aI90364
+aI17
+aI30
+aS'M W'
+p206
+aS' 3:00 PM'
+p207
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp208
+S'PPE240'
+p209
+aI89428
+aI27
+aI30
+aS'T Th'
+p210
+aS'12:00 PM'
+p211
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp212
+S'PPE240'
+p213
+aI89441
+aI0
+aI30
+aS'M W'
+p214
+aS' 1:30 PM'
+p215
+aI13
+aI30
+aI14
+aI20
+aNaNaNaNaNaNaNag70
+aa(lp216
+S'PPE240'
+p217
+aI89442
+aI30
+aI30
+aS'T Th'
+p218
+aS' 4:30 PM'
+p219
+aI16
+aI30
+aI17
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp220
+S'PPE240'
+p221
+aI89448
+aI30
+aI30
+aS'M W'
+p222
+aS' 7:00 PM'
+p223
+aI19
+aI0
+aI19
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp224
+S'PPE240'
+p225
+aI89459
+aI25
+aI25
+aS'M W'
+p226
+aS' 6:00 PM'
+p227
+aI18
+aI0
+aI18
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp228
+S'PPE240'
+p229
+aI89461
+aI25
+aI30
+aS'M W'
+p230
+aS' 9:00 AM'
+p231
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp232
+S'PPE240'
+p233
+aI89463
+aI9
+aI9
+aS'T Th'
+p234
+aS'12:00 PM'
+p235
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp236
+S'PPE240'
+p237
+aI89467
+aI29
+aI30
+aS'M W'
+p238
+aS' 8:00 AM'
+p239
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp240
+S'PPE240'
+p241
+aI89472
+aI28
+aI30
+aS'T Th'
+p242
+aS' 8:00 AM'
+p243
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp244
+S'PPE240'
+p245
+aI89473
+aI29
+aI30
+aS'M W'
+p246
+aS' 1:30 PM'
+p247
+aI13
+aI30
+aI14
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp248
+S'PPE240'
+p249
+aI89475
+aI0
+aI30
+aS'T Th'
+p250
+aS' 3:00 PM'
+p251
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag70
+aa(lp252
+S'PPE240'
+p253
+aI90367
+aI26
+aI30
+aS'T Th'
+p254
+aS'11:00 AM'
+p255
+aI11
+aI0
+aI11
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp256
+S'PPE240'
+p257
+aI89579
+aI8
+aI24
+aS'M W'
+p258
+aS' 3:00 PM'
+p259
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp260
+S'PPE240'
+p261
+aI89607
+aI15
+aI15
+aS'T Th'
+p262
+aS'10:00 AM'
+p263
+aI10
+aI0
+aI10
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp264
+S'PPE240'
+p265
+aI89609
+aI25
+aI30
+aS'T Th'
+p266
+aS'10:00 AM'
+p267
+aI10
+aI0
+aI10
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp268
+S'PPE240'
+p269
+aI89622
+aI10
+aI30
+aS'T Th'
+p270
+aS'10:30 AM'
+p271
+aI10
+aI30
+aI11
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp272
+S'PPE240'
+p273
+aI89627
+aI27
+aI30
+aS'T Th'
+p274
+aS' 8:00 AM'
+p275
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp276
+S'PPE240'
+p277
+aI89630
+aI21
+aI30
+aS'M W'
+p278
+aS'10:00 AM'
+p279
+aI10
+aI0
+aI10
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp280
+S'PPE240'
+p281
+aI89632
+aI16
+aI25
+aS'T Th'
+p282
+aS' 8:00 AM'
+p283
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp284
+S'PPE240'
+p285
+aI89643
+aI22
+aI30
+aS'T Th'
+p286
+aS' 9:00 AM'
+p287
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp288
+S'PPE240'
+p289
+aI89646
+aI23
+aI30
+aS'M W'
+p290
+aS' 9:00 AM'
+p291
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp292
+S'PPE240'
+p293
+aI89650
+aI17
+aI20
+ag12
+aS' 9:00 AM'
+p294
+aI9
+aI0
+aI10
+aI40
+aNaNaNaNaNaNaNag5
+aa(lp295
+S'PPE240'
+p296
+aI89656
+aI22
+aI24
+aS'T Th'
+p297
+aS' 6:00 PM'
+p298
+aI18
+aI0
+aI18
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp299
+S'PPE240'
+p300
+aI89661
+aI28
+aI30
+aS'T Th'
+p301
+aS'11:00 AM'
+p302
+aI11
+aI0
+aI23
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp303
+S'PPE240'
+p304
+aI89669
+aI26
+aI30
+aS'T Th'
+p305
+aS'10:00 AM'
+p306
+aI10
+aI0
+aI10
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp307
+S'PPE240'
+p308
+aI89672
+aI29
+aI30
+aS'T Th'
+p309
+aS'11:00 AM'
+p310
+aI11
+aI0
+aI23
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp311
+S'PPE240'
+p312
+aI89674
+aI25
+aI30
+aS'T Th'
+p313
+aS' 8:00 AM'
+p314
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp315
+S'PPE240'
+p316
+aI89683
+aI23
+aI30
+aS'T Th'
+p317
+aS' 9:00 AM'
+p318
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp319
+S'PPE240'
+p320
+aI89686
+aI29
+aI30
+aS'M W'
+p321
+aS'12:00 PM'
+p322
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp323
+S'PPE240'
+p324
+aI89689
+aI0
+aI30
+aS'T Th'
+p325
+aS' 8:00 AM'
+p326
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag70
+aa(lp327
+S'PPE240'
+p328
+aI90372
+aI28
+aI30
+aS'M W'
+p329
+aS'12:00 PM'
+p330
+aI12
+aI0
+aI12
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp331
+S'PPE240'
+p332
+aI90379
+aI29
+aI30
+aS'M W'
+p333
+aS' 3:30 PM'
+p334
+aI15
+aI30
+aI16
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp335
+S'PPE240'
+p336
+aI90381
+aI15
+aI30
+aS'M W'
+p337
+aS' 3:00 PM'
+p338
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp339
+S'PPE240'
+p340
+aI90387
+aI24
+aI30
+aS'T Th'
+p341
+aS' 9:00 AM'
+p342
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp343
+S'PPE240'
+p344
+aI90389
+aI23
+aI25
+aS'T Th'
+p345
+aS' 3:00 PM'
+p346
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp347
+S'PPE240'
+p348
+aI90391
+aI30
+aI30
+aS'M W'
+p349
+aS' 9:00 AM'
+p350
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp351
+S'PPE240'
+p352
+aI90392
+aI25
+aI25
+aS'T Th'
+p353
+aS' 8:00 AM'
+p354
+aI8
+aI0
+aI8
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp355
+S'PPE240'
+p356
+aI90399
+aI25
+aI30
+aS'M W'
+p357
+aS' 3:00 PM'
+p358
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp359
+S'PPE240'
+p360
+aI90400
+aI20
+aI20
+ag116
+aS' 9:00 AM'
+p361
+aI9
+aI0
+aI10
+aI40
+aNaNaNaNaNaNaNag5
+aa(lp362
+S'PPE240'
+p363
+aI90402
+aI24
+aI24
+aS'T Th'
+p364
+aS' 5:00 PM'
+p365
+aI17
+aI0
+aI17
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp366
+S'PPE240'
+p367
+aI90406
+aI28
+aI30
+aS'T Th'
+p368
+aS' 4:30 PM'
+p369
+aI16
+aI30
+aI17
+aI20
+aNaNaNaNaNaNaNag5
+aa(lp370
+S'PPE240'
+p371
+aI90409
+aI30
+aI30
+aS'T Th'
+p372
+aS' 5:15 PM'
+p373
+aI17
+aI15
+aI18
+aI5
+aNaNaNaNaNaNaNag5
+aa(lp374
+S'PPE240'
+p375
+aI90413
+aI10
+aI30
+aS'M W'
+p376
+aS' 3:00 PM'
+p377
+aI15
+aI0
+aI15
+aI50
+aNaNaNaNaNaNaNag5
+aa(lp378
+S'PPE430'
+p379
+aI82057
+aI10
+aI10
+aS'M'
+p380
+aS' 4:30 PM'
+p381
+aI16
+aI30
+aI19
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp382
+S'PPE494'
+p383
+aI84174
+aI24
+aI30
+aS'Th'
+p384
+aS' 4:30 PM'
+p385
+aI16
+aI30
+aI19
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp386
+S'PPE550'
+p387
+aI74487
+aI9
+aI10
+aS'T Th'
+p388
+aS' 1:30 PM'
+p389
+aI13
+aI30
+aI14
+aI45
+aNaNaNaNaNaNaNag5
+aa(lp390
+S'PPE555'
+p391
+aI74488
+aI9
+aI10
+aS'T'
+p392
+aS' 9:00 AM'
+p393
+aI9
+aI0
+aI11
+aI45
+aNaNaNaNaNaNaNag5
+aa(lp394
+S'PPE560'
+p395
+aI74489
+aI15
+aI15
+ag392
+aS' 4:30 PM'
+p396
+aI16
+aI30
+aI19
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp397
+S'PPE565'
+p398
+aI76347
+aI20
+aI24
+ag392
+aS' 4:30 PM'
+p399
+aI16
+aI30
+aI19
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp400
+S'PPE584'
+p401
+aI82059
+aI30
+aI30
+ag116
+aS' 5:00 PM'
+p402
+aI17
+aI0
+aI18
+aI0
+aNaNaNaNaNaNaNag5
+aa(lp403
+S'PPE598'
+p404
+aI76947
+aI17
+aI20
+ag380
+aS' 4:30 PM'
+p405
+aI16
+aI30
+aI19
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp406
+S'PPE598'
+p407
+aI80000
+aI27
+aI30
+ag12
+aS' 4:30 PM'
+p408
+aI16
+aI30
+aI19
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp409
+S'PPE598'
+p410
+aI80001
+aI25
+aI30
+ag380
+aS' 4:30 PM'
+p411
+aI16
+aI30
+aI19
+aI15
+aNaNaNaNaNaNaNag5
+aa(lp412
+S'PPE690'
+p413
+aI76423
+aI30
+aI30
+ag116
+aS' 1:30 PM'
+p414
+aI13
+aI30
+aI14
+aI30
+aNaNaNaNaNaNaNag5
+aa(lp415
+S'PPE692'
+p416
+aI74494
+aI30
+aI30
+ag116
+aS' 5:40 PM'
+p417
+aI17
+aI40
+aI18
+aI30
+aNaNaNaNaNaNaNag5
+aa(lp418
+S'PPE784'
+p419
+aI82062
+aI30
+aI30
+ag380
+aS' 4:30 PM'
+p420
+aI16
+aI30
+aI17
+aI40
+aNaNaNaNaNaNaNag5
+aa(lp421
+S'PPE784'
+p422
+aI74495
+aI30
+aI30
+ag380
+aS' 4:30 PM'
+p423
+aI16
+aI30
+aI17
+aI40
+aNaNaNaNaNaNaNag5
+aa(lp424
+S'PPE792'
+p425
+aI74496
+aI30
+aI30
+ag380
+aS' 5:40 PM'
+p426
+aI17
+aI40
+aI18
+aI30
+aNaNaNaNaNaNaNag5
+aa(lp427
+S'PPE799'
+p428
+aI74497
+aI30
+aI30
+ag116
+aS' 5:40 PM'
+p429
+aI17
+aI40
+aI18
+aI30
+aNaNaNaNaNaNaNag70
+aa.

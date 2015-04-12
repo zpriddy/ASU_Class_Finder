@@ -98,6 +98,9 @@ def buildCache():
 		print "Loading Subject: ", subject
 		try:
 			parseClasses(downloadAndParse(subject),subject)
+			tempArray = allClassDB[subject]
+			path = "cache/" + subject + ".db"
+			pickle.dump(tempArray,open(path,'wb'))
 		except:
 			print "ERROR", subject
 		pickle.dump(allClassDB,open('cache/allClassesDB','wb'))

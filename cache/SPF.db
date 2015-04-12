@@ -1,0 +1,51 @@
+(lp0
+(lp1
+S'SPF301'
+p2
+aI88113
+aI14
+aI35
+aS'ONLINE'
+p3
+aNaNaNaNaNaNaNaNaNaNaNaNaS'Reserved'
+p4
+aa(lp5
+S'SPF301'
+p6
+aI76094
+aI18
+aI35
+aS'T Th'
+p7
+aS' 9:00 AM'
+p8
+aI9
+aI0
+aI10
+aI15
+aNaNaNaNaNaNaNaS'Not Reserved'
+p9
+aa(lp10
+S'SPF301'
+p11
+aI76773
+aI22
+aI35
+aS'T Th'
+p12
+aS' 3:00 PM'
+p13
+aI15
+aI0
+aI16
+aI15
+aNaNaNaNaNaNaNag9
+aa(lp14
+S'SPF792'
+p15
+aI75635
+aI10
+aI10
+ag3
+aNaNaNaNaNaNaNaNaNaNaNaNag9
+aa.

@@ -1,0 +1,70 @@
+(lp0
+(lp1
+S'VTN101'
+p2
+aI70087
+aI15
+aI25
+aS'T Th'
+p3
+aS'12:00PM'
+p4
+aI12
+aI0
+aI13
+aI15
+aS''
+p5
+ag5
+aNaNag5
+aNaNaS'Not Reserved'
+p6
+aa(lp7
+S'VTN201'
+p8
+aI70088
+aI14
+aI15
+aS'T Th'
+p9
+aS'1:30PM'
+p10
+aI13
+aI30
+aI14
+aI45
+ag5
+ag5
+aNaNag5
+aNaNag6
+aa(lp11
+S'VTN321'
+p12
+aI72706
+aI12
+aI15
+aS'M W'
+p13
+aS' 9:00 AM'
+p14
+aI9
+aI0
+aI10
+aI15
+aNaNaNaNaNaNaNag6
+aa(lp15
+S'VTN499'
+p16
+aI70089
+aI15
+aI15
+aS'F'
+p17
+aS' 9:00 AM'
+p18
+aI9
+aI0
+aI9
+aI50
+aNaNaNaNaNaNaNag6
+aa.

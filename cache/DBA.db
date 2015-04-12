@@ -1,0 +1,73 @@
+(lp0
+(lp1
+S'DBA705'
+p2
+aI80258
+aI40
+aI40
+aS'M T W Th F Sa Su'
+p3
+aS' 8:00 AM'
+p4
+aI8
+aI0
+aI17
+aI0
+aNaNaNaNaNaNaNaS'Not Reserved'
+p5
+aa(lp6
+S'DBA713'
+p7
+aI84549
+aI40
+aI40
+aS'ONLINE'
+p8
+aNaNaNaNaNaNaNaNaNaNaNaNag5
+aa(lp9
+S'DBA714'
+p10
+aI91222
+aI80
+aI80
+aS'M T W Th F Sa'
+p11
+aS' 8:00 AM'
+p12
+aI8
+aI0
+aI17
+aI0
+aNaNaNaNaNaNaNag5
+aa(lp13
+S'DBA715'
+p14
+aI84111
+aI80
+aI80
+aS'F Sa Su'
+p15
+aS' 8:00 AM'
+p16
+aI8
+aI0
+aI17
+aI0
+aNaNaNaNaNaNaNag5
+aa(lp17
+S'DBA723'
+p18
+aI84110
+aI40
+aI40
+ag8
+aNaNaNaNaNaNaNaNaNaNaNaNag5
+aa(lp19
+S'DBA799'
+p20
+aI84548
+aI40
+aI40
+ag8
+aNaNaNaNaNaNaNaNaNaNaNaNag5
+aa.
