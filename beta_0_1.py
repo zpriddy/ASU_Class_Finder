@@ -162,7 +162,7 @@ def downloadAndParse(classSub, term=2157,debug=True):
 def parseClasses(inputString, classSub):
 	allClasses = inputString.split("<tr class=\"grp")
 	
-	print len(allClasses)
+	#print len(allClasses)
 
 	for item in allClasses:
 		loc = item.find(" " + classSub + " ")
