@@ -20,14 +20,18 @@ from StringIO import StringIO
 import pycurl
 import pickle
 
+
+
 #########
 #VARS
 #########
 programName="ASU Class Finder"
 programDescription="INSERT PROGRAM DESCRIPTION"
 
-searchURL1="https://webapp4.asu.edu/catalog/classlist?"
-searchURL2="&e=all&hon=F"
+searchURL1="https://webapp4.asu.edu/catalog/classlist?t=2157&e=open&college="
+searchURL2="&hon=F"
+
+schools = ["BA","HI","TE","ES","GC","HO","CS","LW","LS","LA","AS","NU","NH","PP","SU","UC"]
 
 allClassDB = {}
 
@@ -80,15 +84,50 @@ def main(args):
 	except:
 		print "Not Loaded from cache"
 	
-	#myClasses = getClasses(args.subject)
+	#myClassestext = downloadAndParse #getClasses(args.subject)
+
 	#myClasses =  searchForClassBySub(args.subject,args.classNumber)
 
 	#pickle.dump(allClassDB,open('cache/allClassesDB','wb'))
+	subList = open('subjects.txt','r').read().split("\n")
+	for subject in subList:
+		allClassDB[subject] = []
+		
+
+	
+
+
+	for school in schools:
+		print "WORKING ON SCHOOL: ", school
+		collegeTXT = downloadAndParse(school)
+		#print collegeTXT
+		subList = open('subjects.txt','r').read().split("\n")
+		for subject in subList:
+			#print "Loading Subject: ", subject
+			#try:
+			parseClasses(collegeTXT,subject)
+			#except:
+			#	print "ERROR", subject
+
+
 
 	#for item in myClasses:
 	#	if (item[2] != 0):
 	#		print item
-	buildCache()
+	print allClassDB
+
+	subList = open('subjects.txt','r').read().split("\n")
+	for subject in subList:
+		print "Loading Subject: ", subject
+		try:
+			for item in allClassDB[subject]:
+				print item
+		except:
+			print "ERROR", subject
+
+
+	pickle.dump(allClassDB,open('cache/allClassesDB','wb'))
+	#buildCache()
 
 def buildCache():
 	global allClassDB
@@ -137,7 +176,7 @@ def getClasses(classSub):
 
 def downloadAndParse(classSub, term=2157,debug=True):
 	output = ""
-	searchURL = searchURL1 + "s=" + str(classSub) + "&t=" + str(term) + searchURL2
+	searchURL = searchURL1 + str(classSub) + searchURL2
 	if(debug):
 		print searchURL
 	trash = StringIO()
@@ -166,7 +205,7 @@ def downloadAndParse(classSub, term=2157,debug=True):
 	web.close()
 
 	#
-	if(str(page1.getvalue()).count(" " + classSub + " ") == 300):
+	if("1-300 " in str(page1.getvalue())):
 		searchURL="""https://webapp4.asu.edu/catalog/app?component=tablePages.linkPage&page=ClassResults&service=direct&session=T&sp=AClassResults%2CCatalogList&sp=2"""
 		web = pycurl.Curl()
 		web.setopt(web.URL,searchURL)
@@ -177,7 +216,7 @@ def downloadAndParse(classSub, term=2157,debug=True):
 		web.perform()
 		web.close()
 
-	if(str(page2.getvalue()).count(" " + classSub + " ") == 300):
+	if("301-600 " in str(page2.getvalue())):
 		searchURL="""https://webapp4.asu.edu/catalog/app?component=tablePages.linkPage&page=ClassResults&service=direct&session=T&sp=AClassResults%2CCatalogList&sp=3"""
 		web = pycurl.Curl()
 		web.setopt(web.URL,searchURL)
@@ -209,7 +248,7 @@ def downloadAndParse(classSub, term=2157,debug=True):
 
 def parseClasses(inputString, classSub):
 	global allClassDB
-	allClassDB[classSub] = []
+	thisClassOld = allClassDB[classSub]
 	thisClass = []
 	allClasses = inputString.split("<tr class=\"grp")
 
@@ -253,44 +292,49 @@ def parseClasses(inputString, classSub):
 				dayList = dayList[:dayListEndloc]
 
 			if(dayList != ''):
-				startTime = item[startTimeloc+56:startTimeloc+200].replace("\n","").replace("\t","").replace(">","")
-				startTimeEndloc = startTime.find("&nbsp;")
-				startTime = startTime.split("&nbsp;")[0]
-				if('<br/' in startTime):
-					startTime2 = startTime.split('<br/')[1].replace(" ", "")
-					startTime = startTime.split('<br/')[0].replace(" ","")
+				try:
+					startTime = item[startTimeloc+56:startTimeloc+200].replace("\n","").replace("\t","").replace(">","")
+					startTimeEndloc = startTime.find("&nbsp;")
+					startTime = startTime.split("&nbsp;")[0]
+					if('<br/' in startTime):
+						startTime2 = startTime.split('<br/')[1].replace(" ", "")
+						startTime = startTime.split('<br/')[0].replace(" ","")
 
-				endTime = item[endTimeloc+54:endTimeloc+200].replace("\n","").replace("\t","").replace(">","")
-				endTimeEndloc = endTime.find("&nbsp;")
-				#endTime = endTime[:endTimeEndloc].replace(" ","")
-				endTime = endTime.split("&nbsp;")[0]
-				if('<br/' in endTime):
-					endTime2 = endTime.split('<br/')[1].replace(" ", "")
-					endTime = endTime.split('<br/')[0].replace(" ","")
+					endTime = item[endTimeloc+54:endTimeloc+200].replace("\n","").replace("\t","").replace(">","")
+					endTimeEndloc = endTime.find("&nbsp;")
+					#endTime = endTime[:endTimeEndloc].replace(" ","")
+					endTime = endTime.split("&nbsp;")[0]
+					if('<br/' in endTime):
+						endTime2 = endTime.split('<br/')[1].replace(" ", "")
+						endTime = endTime.split('<br/')[0].replace(" ","")
 
 
-				startHour = int(startTime.split(":")[0])
-				if ('PM' in startTime and startHour != 12):
-					startHour = int(startHour) + 12
-				startMin = int(startTime.split(":")[1][0:2])
-				#startMin = int(startMin)
-				
-				endHour = int(endTime.split(":")[0])
-				if('PM' in endTime and endHour != 12):
-					endHour = int(endHour) + 12 
-				endMin = int(endTime.split(":")[1][0:2])
-
-				if(dayList2):
-					startHour2 = int(startTime2.split(":")[0])
-					if ('PM' in startTime2 and startHour2 != 12):
-						startHour2 = int(startHour2) + 12
-					startMin2 = int(startTime2.split(":")[1][0:2])
+					startHour = int(startTime.split(":")[0])
+					if ('PM' in startTime and startHour != 12):
+						startHour = int(startHour) + 12
+					startMin = int(startTime.split(":")[1][0:2])
 					#startMin = int(startMin)
 					
-					endHour2 = int(endTime2.split(":")[0])
-					if('PM' in endTime2 and endHour2 != 12):
-						endHour2 = int(endHour2) + 12 
-					endMin2 = int(endTime2.split(":")[1][0:2])
+					endHour = int(endTime.split(":")[0])
+					if('PM' in endTime and endHour != 12):
+						endHour = int(endHour) + 12 
+					endMin = int(endTime.split(":")[1][0:2])
+
+					if(dayList2):
+						startHour2 = int(startTime2.split(":")[0])
+						if ('PM' in startTime2 and startHour2 != 12):
+							startHour2 = int(startHour2) + 12
+						startMin2 = int(startTime2.split(":")[1][0:2])
+						#startMin = int(startMin)
+						
+						endHour2 = int(endTime2.split(":")[0])
+						if('PM' in endTime2 and endHour2 != 12):
+							endHour2 = int(endHour2) + 12 
+						endMin2 = int(endTime2.split(":")[1][0:2])
+
+				except:
+
+					print "ERROR PARSING TIME"
 
 
 			else:
@@ -305,9 +349,13 @@ def parseClasses(inputString, classSub):
 
 		#if(item[loc:loc+8].find(" " + classSub + " ") != -1):
 			#print item[loc:loc+8], item[idloc+3:idloc+8], item[avb+65:avb+68].replace("<","").replace("/",""), "of", item[tot+63:tot+66].replace("<","").replace("/","") , "open"
-			thisClass.append([item[loc:loc+8].replace(" ",""), int(item[idloc+3:idloc+8]),int(item[avb+65:avb+68].replace("<","").replace("/","")),int(item[tot+63:tot+66].replace("<","").replace("/","")), dayList, startTime, startHour, startMin, endHour, endMin, dayList2, startTime2, startHour2, startMin2, endTime2, endHour2, endMin2, reserved_status])
+			thisClass.append([item[loc:loc+8].replace(" ",""), item[idloc+3:idloc+8],item[avb+65:avb+68].replace("<","").replace("/",""),item[tot+63:tot+66].replace("<","").replace("/",""), dayList, startTime, startHour, startMin, endHour, endMin, dayList2, startTime2, startHour2, startMin2, endTime2, endHour2, endMin2, reserved_status])
 
-	allClassDB[classSub] = thisClass
+			#print thisClass
+
+	thisClassOld.extend(thisClass)
+
+	allClassDB[classSub] = thisClassOld
 
 
 
