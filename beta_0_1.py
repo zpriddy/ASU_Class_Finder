@@ -28,6 +28,8 @@ programDescription="INSERT PROGRAM DESCRIPTION"
 searchURL1="https://webapp4.asu.edu/catalog/classlist?"
 searchURL2="&e=all&hon=F"
 
+allClassDB = {}
+
 
 
 ##################################################
@@ -41,7 +43,7 @@ def getArgs():
 	parser = argparse.ArgumentParser(prog=programName, description=programDescription)
 	parser.add_argument("-s","--subject",help="Enter Subject (for MAT270 - enter MAT",required=True)
 	parser.add_argument("-d","--debug",help="debug",action="store_true")
-	#parser.add_argument("-n","--classNumber",help="Enter Class Number (for MAT270 - enter 270)",required=True)
+	parser.add_argument("-n","--classNumber",help="Enter Class Number (for MAT270 - enter 270)",required=True)
 	#parser.add_argument("-id","--classID",help="Enter Class ID",required=True)
 
 
@@ -71,12 +73,30 @@ def getArgs():
 # MAIN
 #############
 def main(args):
-	getClasses(args.subject)
+	#getClasses(args.subject)
+	myClasses =  searchForClassBySub(args.subject,args.classNumber)
+
+	for item in myClasses:
+		if (item[2] != 0):
+			print item
 
 
 #############
 # END OF MAIN
 #############
+
+def searchForClassBySub(classSub, classNum):
+	global allClassDB
+	returnArray = []
+	getClasses(classSub)
+	searchFor = classSub + str(classNum)
+	print searchFor
+
+	for item in allClassDB[classSub]:
+		if (item[0] == searchFor):
+			returnArray.append(item)
+
+	return returnArray
 
 
 def getClasses(classSub):
@@ -160,6 +180,9 @@ def downloadAndParse(classSub, term=2157,debug=True):
 
 
 def parseClasses(inputString, classSub):
+	global allClassDB
+	allClassDB[classSub] = []
+	thisClass = []
 	allClasses = inputString.split("<tr class=\"grp")
 	
 	#print len(allClasses)
@@ -169,9 +192,22 @@ def parseClasses(inputString, classSub):
 		idloc = item.find(";r=")
 		avb = item.find("""<td style="text-align:right;padding:0px;width:22px; border:none">""")
 		tot= item.find("""<td style="text-align:left;padding:0px;width:22px;border:none">""")
+		dayListloc = item.find("""<td class="dayListColumnValue""")
+		startTimeloc = item.find("""<td class="startTimeDateColumnValue" id="informal_159">""")
+		endTimeloc = item.find("""<td class="endTimeDateColumnValue" id="informal_160">""")
+
+		dayList = item[dayListloc+49:dayListloc+90].replace("\n","").replace("\t","").replace(">","")
+		dayListEndloc = dayList.find("&nbsp;")
+		dayList = dayList[:dayListEndloc]
+
+		#startTime = item[startTimeloc]
 
 		if(item[loc:loc+8].find(" " + classSub + " ") != -1):
-			print item[loc:loc+8], item[idloc+3:idloc+8], item[avb+65:avb+68].replace("<","").replace("/",""), "of", item[tot+63:tot+66].replace("<","").replace("/","") , "open"
+			#print item[loc:loc+8], item[idloc+3:idloc+8], item[avb+65:avb+68].replace("<","").replace("/",""), "of", item[tot+63:tot+66].replace("<","").replace("/","") , "open"
+			thisClass.append([item[loc:loc+8].replace(" ",""), item[idloc+3:idloc+8],item[avb+65:avb+68].replace("<","").replace("/",""),item[tot+63:tot+66].replace("<","").replace("/",""), dayList])
+
+	allClassDB[classSub] = thisClass
+
 
 
 
